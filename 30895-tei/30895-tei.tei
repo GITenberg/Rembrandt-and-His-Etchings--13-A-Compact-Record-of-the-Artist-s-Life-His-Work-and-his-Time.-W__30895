@@ -1,0 +1,1429 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!DOCTYPE TEI.2 SYSTEM "http://www.gutenberg.org/tei/marcello/0.4/dtd/pgtei.dtd">
+
+<TEI.2 lang="en">
+<teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>Rembrandt and His Etchings
+</title>
+ <author>Louis Arthur Holman</author>
+ </titleStmt>
+ <editionStmt>
+  <edition n="1">Edition 1</edition>
+ </editionStmt>
+ <publicationStmt>
+ <publisher>Project Gutenberg</publisher>
+ <date value="2010-01-08">January 8, 2010</date>
+ <idno type="etext-no">30895</idno>
+ <availability>
+ <p>This eBook is for the use of anyone anywhere at no cost and
+ with almost no restrictions whatsoever. You may copy it, give it
+ away or re-use it under the terms of the Project Gutenberg
+ License online at www.gutenberg.org/license</p>
+ </availability>
+ </publicationStmt>
+
+ <sourceDesc>
+  <bibl>
+  <title>Rembrandt and His Etchings</title>
+  <author>Louis A. Holman</author>
+  <imprint>
+   <pubPlace>Boston</pubPlace>
+   <publisher>Charles E. Goodspeed &amp; Co.</publisher>
+   <date>1921</date>
+  </imprint>
+  </bibl>
+ </sourceDesc>
+ </fileDesc>
+
+ <encodingDesc>
+ <classDecl>
+  <taxonomy id="lc">
+  <bibl>
+   <title>Library of Congress Classification</title>
+  </bibl>
+  </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+  <language id="en"></language>
+  <language id="la"></language>
+ </langUsage>
+<textClass>
+  <classCode scheme="lc">PR</classCode>
+<keywords>
+<list>
+<item>Rembrandt Harmenszoon van Rijn, 1606-1669</item>
+</list>
+</keywords>
+</textClass>
+ 
+ </profileDesc>
+ <revisionDesc>
+ <change>
+  <date value="2010-01-08">January 8, 2010</date>
+  <respStmt>
+  <name>Martin Schub<lb /></name>
+  </respStmt>
+  <item>Project Gutenberg Edition</item>
+ </change>
+ </revisionDesc>
+</teiHeader>
+
+<pgExtensions>
+  <pgStyleSheet>
+    .boxed           { x-class: boxed }
+    .shaded          { x-class: shaded }
+    .rules           { x-class: rules; rules: all }
+    .indent          { margin-left: 2 }
+    .bold            { font-weight: bold }
+    .italic          { font-style: italic }
+
+    figure           { text-align: center; page-float: 'p' }
+    .floatleft       { float: left;  margin-right: 2em }
+    .floatright      { float: right; margin-left:  2em }
+    .w90             { }
+    .w80             { }
+    .w70             { }
+    .w50             { }
+    .w30             { }
+    .w20             { }
+    .w05             { }
+    @media pdf {
+      .w90             { width: 90% }
+      .w80             { width: 80% }
+      .w70             { width: 70% }
+      .w50             { width: 50% }
+      .w30             { width: 30% }
+      .w20             { width: 20% }
+      .w05             { width: 5% }
+    }
+  </pgStyleSheet>
+</pgExtensions>
+
+<text lang="en">
+
+<front>
+
+<div>
+<divGen type="pgheader" />
+</div>
+<div>
+  <divGen type="encodingDesc" />
+</div>
+
+<div rend="page-break-before: right">
+<figure url="images/rembrand.jpg" rend="w80">
+<index index="fig" />
+<head><emph>No. 168.   Rembrandt Leaning on a Stone Sill</emph></head>
+<figDesc>No. 168.   Rembrandt Leaning on a Stone Sill</figDesc>
+</figure>
+<p></p>
+</div>
+
+<titlePage rend="page-break-before: right">
+ <docTitle><titlePart type="main" rend="font-size: x-large">Rembrandt and His Etchings</titlePart><lb /><lb/>
+</docTitle>
+<titlePart type="sub">A Compact Record of the Artist's Life, his Work and his Time.  With the Complete Chronological List of his Etchings Compiled by A. M. Hind, of the British Museum</titlePart>
+
+ <byline><lb /><lb /><lb /><docAuthor>Louis A. Holman</docAuthor><lb /><lb /><lb /><lb /></byline>
+
+<docImprint>Charles E. Goodspeed &amp; Co., Boston</docImprint><lb />
+<docDate>1921</docDate>
+</titlePage>
+
+<div rend="page-break-before: right">
+<index index="pdf" />
+<head>Contents</head>
+<divGen type="toc" />
+</div>
+
+<div rend="page-break-before: right">
+<head>Illustrations</head>
+<divGen type="fig" />
+</div>
+
+</front>
+
+<body rend="page-break-before: right">
+
+<div rend="page-break-before: right">
+  <index index="toc" />
+  <index index="pdf" />
+<head>REMBRANDT AND HIS ETCHINGS</head>
+<pb n="5" />
+
+<figure url="images/tramps.jpg" rend="w20">
+<index index="fig" />
+<head><emph>No. 116. Two Tramps.</emph></head>
+<figDesc>No. 116. Two Tramps.</figDesc>
+</figure>
+
+<p>
+<q>A fair &amp; bewtiful citie, and of sweete situation</q> and famous for <q>ye universitie wherwith it is adorned;</q> such was Leyden as the fresh eyes of the youthful William Bradford saw it when the little company of English exiles, later revered as the Pilgrim Fathers, sought asylum in Holland.  The fame of Leyden was to be further perpetuated, although Bradford knew it not, by one who had but just been born there when the English pilgrims came to the friendly university town; one who has added to the fame of his native place chiefly because he did not attend that university, which seemed so attractive to young Bradford.  The father of this boy determined that he should have a collegiate education that he might sometime hold a town office, and fondly hoped that he was preparing him for it (in, perhaps, the very schools attended by the English children), when the lad made it clear to all men that he had no head for Latin and a very decided talent for drawing.  So it came to pass that at the time Bradford and his friends set their faces toward America, and per-force turned their backs upon that
+<pb n="6" />
+<q>goodly &amp; pleasante citie which had been ther resting place near twelve years,</q> Rembrandt Harmens van Rijn, the youngest son of a miller of Leyden, turned his face, too, from the old toward the new.  They sought liberty to live and to worship according to the bright light in their hearts: he, too, sought liberty to follow in a no less divinely appointed path, impelled thereto by an irresistible force which, after half a century, retained all its early vigor.  They broke from the ways of their fathers and bore an important part in the development of the great American nation; he emancipated himself and his art from the thraldom of tradition and conventionality and became the first of the great modern masters of art.
+</p>
+<p>
+The twelve-years' truce between the humiliated Dons and the stocky Dutchmen was now nearing its end, and Bradford says, <q>There was nothing but beating of drumes, and preparing for warr.</q> This was one of the reasons why the peaceable Pilgrims sought a new home beyond the sea.  But Rembrandt, already absorbed in his art-studies, saw nothing, heard nothing of these preparations; his ears were deaf to the drum-beats, his eyes were seeing better things than the <q>pride, pomp and circumstances of glorious war</q>.  There can be no question about his utter lack of interest in things military.  When, at long intervals, he tried war-subjects (as most men sooner or later try their hand at the thing they are least fitted for) he failed pitifully.  He could create a masterpiece of a <q>Man in Armor,</q> or a <q>Night Watch,</q> where the problems
+<pb n="7" />
+were purely artistic, and swords and flags were simply bits of fine color, but the painting or etching that breathed the actual spirit of war he could not produce.  There is matter here for rejoicing.  War and her heroes have had their full quota of the great artists to exalt their work.  And now comes one who loved the paths of peace.  With brush and etching-needle he made record for all time of the dignity and rare beauty which he found in ordinary hum-drum walks of life.  We may even say that he exalted doctors and artists, housemaids and shopkeepers, yea even the very street-beggars, into such important personages that their portraits are still eagerly sought after by the great ones of the earth.  It was during the lifetime of Rembrandt (1606-1669) that much of the wonderful development of Holland took place.  She had come to her greatness gradually, but by the middle of the seventeenth century she occupied a leading place among the independent nations of Europe.  Great discoverers, like Henry Hudson, had given her new dominions east and west, and colonization had begun.  On the sea her flag was supreme; her merchant marine, going to and from her own possessions was seen in every port of the world; her admirals, Ruyter and Tromp, had won her an illustrious place forever in the annals of naval warfare.  These were the days of Milton and Ben Jonson; of Cromwell, Gustavus Adolphus and Richelieu; of Murillo, Rubens and Van Dyck&mdash;days when Holland had within her own borders such men as Barneveld, the great statesman;
+<pb n="8" />
+Grotius, the father of international law; Spinoza, the philosopher and John de Witt, the Grand Pensioner&mdash;besides that noble group of artists: Hals, Cuyp, Ruysdael, Potter, Steen and Ostade.  These days, too, saw the settling of many states in America, the founding of Quebec, New York and Boston.
+</p>
+<p>
+Strangely apart from all these history-making movements, and from his peers among men, dwelt Rembrandt, the great master, in Amsterdam, serenely happy to-day in painting a portrait of his loved Saskia, to-morrow in etching the features of a wandering Jew.  He had given himself, body and soul, to his art, and no man or movement of men could distract him from his work.  Year by year his busy brain and dexterous hand produced paintings, etchings, drawings, in slightly varying proportion, but always in amazing quantity.  For his forty-one productive years we find to his credit the average annual output of thirteen paintings, nine etchings, and thirty-nine drawings.  And these numbers would be materially greater, doubtless, had we a full record of his work.
+</p>
+<p>
+A few decades ago the ordinary person thought of Rembrandt only as a great painter; that time has fortunately passed.  Modern engraving methods have made it possible to spread broadcast reproductions of his etched work.  Thanks to these mechanical engraving-processes some of Rembrandt's etchings are now familiarly known and, to a degree at least, they are appreciated.  No reproduction, however, can ever give the subtle quality of the original,
+<pb n="9" />
+and a revelation comes to one who looks for the first time on some brilliant, early impressions of his famous plates.  The ink is still alive; the Chinese or Japanese paper which Rembrandt generally used, has sometimes gone very yellow and spotted, but oftener it has the fine mellowness of age.  We treat
+it with respect, almost with reverence, for we recall that these very sheets of paper were dampened and laid upon the etched plate, already prepared by the hands of the great etcher himself.  Each impression he pulled was as carefully considered as the biting of the copper plate.  He varied the strength of the ink, the method of wiping, the pressure used;
+<pb n="10" />
+knowing the possibilities of his plate, he so manipulated it that it responded to his touch as a piano responds to the touch of a musician.  The poor impressions and very late states, of which, unfortunately, many exist, are generally the work of those mercenary ones into whose hands the plates fell after his death&mdash;sometimes even before.  Like a man with no music in his soul attempting to improve upon a sonata by Beethoven, these people not only printed, haphazard, poor impressions having the master's name, but sometimes even undertook to rearrange the composition and often to rework the plate.
+</p>
+<figure url="images/mother.jpg" rend="w70">
+<index index="fig" />
+<head><emph>No. 1. Rembrandt's Mother.</emph></head>
+<figDesc>No. 1. Rembrandt's Mother.</figDesc>
+</figure>
+<p>
+A hundred years before Rembrandt's time acid had been used to help out the graver.  Durer, among others, used it, and he employed also, but in hesitating manner, the dry-point with its accompanying burr.  Rembrandt's method of utilizing the roughness thrown up on the copper by the dry-point needle was a development of its possibilities that no one else, even among his own pupils, has ever equaled.  It was much the same with everything else: the burin of the professional engraver he handled so skilfully that it is impossible to tell where the acid or the dry-point work stopped and the reinforcing work of the graver began.  When others tried to combine these methods they failed.  The hand of Rembrandt was the obedient servant of his mastermind: so well trained was it that with a preliminary sketch or without it, the needle produced on the smoked wax surface of the copper the picture which
+<pb n="11" />
+floated before him, so correctly that the brain was not diverted from the ideal picture by any crudity in the lines.  If the tools, methods, and effects which the great engravers had used suggested anything to him, he freely took them up and bent them to his will.  Making free use of all, binding himself to none, he always remained the versatile, independent student.  And the strangest thing about it all is that he appears to have recognized, grappled with, and forever solved the problems of the art while nothing but a youth.  One of the two etchings which bear the earliest date (1628) and signature is known as <q>Rembrandt's Mother: Head and Bust</q> (No. 1.)  It is a delightful little plate, drawn
+<pb n="12" />
+with all the skill and freedom of a practiced hand.  Frederick Wedmore, an English authority on etching says that <q>nothing in Rembrandt's work is more exhaustive or more subtle,</q> and S. R. Koehler, an American authority, called it <q>a magnificent little portrait, complete artistically and technically,</q> and very truly refers to it as <q>a prefiguration of what was to come.</q>  A man of twenty-two years already a master-etcher!
+</p>
+
+<figure url="images/omval.jpg" rend="w90">
+<index index="fig" />
+<head><emph>No. 210. Omval.</emph></head>
+<figDesc>No. 210. Omval.</figDesc>
+</figure>
+
+<p>
+This etching measures just about two and a half inches square.  There are others about the size of a postage-stamp, while the largest one, <q>The Descent from the Cross</q> (No. 103), is twenty-two by sixteen and a half inches.  The amount of labor on these large plates is overpowering, while the workmanship in the smaller ones is almost unbelievably fine&mdash;think of a child's face not over one-eighth of an inch wide, and hands less than a sixteenth of an inch across, yet really eloquent with expression!
+</p>
+<p>
+Rembrandt accepted the assistance of his pupils, as who among the old masters did not?  He was, however, not practical enough to profit much by them: he could work to much better advantage alone.  Among his thirty or forty pupils Ferdinand Bol, who came to his studio when only sixteen and stayed for eight years, gave his master most assistance.  Bol's rendering is at times very much like Rembrandt's.  Some critics think, for instance, that he etched most of the <q>Goldweigher</q> (No. 167) and <q>Abraham Caressing Isaac</q> (No. 148); both, however, are signed by Rembrandt.  When
+<pb n="13" />
+these pupils established studios of their own, they
+made free use of their old master's compositions,
+subjects and figures.
+</p>
+<p>
+With Jan Lievens, his fellow student at Lastman's studio, with van Vliet, Roddermondt and   other engravers and etchers of the time, Rembrandt was on terms of great intimacy.  They appear often to have worked on the same plate, and to have borrowed each other's ideas <q>without let or hindrance.</q>  Indeed, it is hard to comprehend the extent to which exchange of ideas was carried at that time.  Here is a good illustration of the way things went without protest of any sort being raised.  Hercules Seghers etched a large landscape with small figures, after a painting by Adam Elzheimer and an engraving by Count de Goudt, entitled <q>Tobias and the Angel.</q>  This copper plate came into Rembrandt's possession; he burnished out Tobias and his companion, and replaced them by Joseph, Mary and the Holy Child (No. 266).  To cover the erasure he added foliage, but the wing of the angel, the outlines of a leg and various other  unused portions of Tobias can still be seen.  Rembrandt's   reason  for bothering with this plate is incomprehensible.  He improved  it, undoubtedly, but the composite result is exceedingly commonplace and reflects no credit upon any one.  John Burnet, the etcher-author, has drawn attention to the fact that the figure of Christ in <q>Christ at Emmaus</q> (No. 282) is taken from one by Raphael, who is known to have borrowed it from da Vinci, and it is thought da Vinci, in his turn, got it from
+<pb n="14" />
+a former master.  Rembrandt borrowed also from Rubens, Titian, Mantegna, his pupil Gerard Dou, Van de Velde and  others.  Many of   his contemporaries and successors extended   toward him the same sort of flattery.
+</p>
+<p>
+More than half the subjects of Rembrandt's etchings are portraits and studies of the human figure; about one-quarter are scriptural or religious.  There are two dozen landscapes, and the remainder are allegorical and fancy compositions.  We find then the two most productive sources of his inspiration were the men of his day and the men of the Bible. This book appears to have been the only one he
+knew at all well, but of it he made excellent use.  Despite the incongruities of his Biblical compositions, despite the broad Dutch features, the modern, gorgeous apparel and side-whiskers of the patriarchs, the pugilistic proportions of his angels, his etchings have a truth and vital force that there is no withstanding.  Perhaps the very fact that he clothed his people in a fashion that he knew well made his pictures the more successful in reaching the hearts of men.  In the all too realistic <q>Abraham's Sacrifice</q> (No. 283), in <q>Joseph's Coat Brought to Jacob</q> (No. 104), in the naive <q>Rest on the Flight</q> (No. 216), and many, many others, the story-telling quality is exceeding strong and the artistic work above criticism.  When we look at <q>David in Prayer</q> (No. 258), beside his incongruous four-post bedstead, we cannot but feel that here penitence and sincerity is forcefully depicted. The acme of
+<pb n="15" />
+Rembrandt's religious work was reached, however in <q>Christ, with the Sick Around Him</q> (No. 236) (etched about 1650), which is often called the finest piece of etched work that has ever been produced.  It is a combination of pure etching and dry-point, and in the second state, there is an India-ink wash in the background.  There are, I think, nine copies of the first state extant; the last one sold at public auction (Christie's, 1893) brought over $8,500.  While the Christ here is not so satisfying as the one in <q>Christ Preaching</q> (No. 256) which is remarkably strong and noble, it is Rembrandt's typical conception of our Lord&mdash;always ministering to real flesh and blood, the poor, suffering, common people.  What a striking contrast with the resplendent artificiality which surrounds the Christ of the Italian masters.
+</p>
+<figure url="images/lutma.jpg" rend="w90">
+<index index="fig" />
+<head><emph>No. 290.  Jan Lutma, Goldsmith and Sculptor.</emph></head>
+<figDesc>No. 290.  Jan Lutma, Goldsmith and Sculptor.</figDesc>
+</figure>
+<p>
+Rembrandt was his own most frequent model. He painted about sixty portraits of himself, and among his etchings we find about two score more.  Some of them are large and finished, as the deservedly popular <q>Rembrandt Leaning on a Stone Sill</q> (No. 168), which is a perfect example of the possibilities of the etching-needle; others are mere thumb-nail sketches of various expressions of face.  He used his mother many times, and also his wife and son.  In all these is apparent a delightful sense of joy in his work.  Nor is this desirable quality lacking in the wonderful series of large portraits of his friends: the doctors, the ministers, the tradesmen of Amsterdam.  Perhaps these were pot-boilers, as
+<pb n="17" />
+some students of his work say,  but surely never artist before or since produced to order a group of etchings that, taken entirely apart from his other plates would assure their author a high place among the greatest etchers.  In the whole lot there are few that some authority on etching or some great artist has not held up as an example of work that even the master himself never surpassed.  But an artist cannot always keep himself at concert pitch and when Rembrandt etched the portrait of his friend <q>Abraham  Francen</q> (No. 291) I feel that he struck an uncertain, almost false note, unworthy of himself.  We might, perhaps, account for this by saying, that it was  done in 1656, the year of his bankruptcy were it not that the noble <q>Jan Lutma</q> (No. 290) which competes with the <q>Jan Six</q> (No.  228) for the place of masterpiece of the entire series, was made the same year.  But he was an unaccountable sort of man who could produce in a poor, naked studio, with untold trouble stalking him on all sides, such an etching as the <q>Lutma,</q> such a painting as the <q>Syndics of the Draper's Guild,</q> both of which rank with the best products of his happy, care-free years of luxury.
+</p>
+<p>
+It is noticeable that  Rembrandt had no sittings
+from persons of high rank.  So far as I can find <q>Burgomaster</q> is the most exalted title that can with certainty be given to any of his patrons.  The reason is not far to seek.  Rembrandt was not a courtier like Van Dyck and Rubens; he was too independent and too busy to spend time kow-towing
+<pb n="18" />
+to society.  A contemporary says of him, <q>When he painted he would not have given audience to the greatest monarch on earth.</q>  He calmly set at nought established principles and conventional rules, in etiquette as well as in art, and followed the bent of his genius with absolute disregard for the opinions of his fellows.  The story of <q>Night Watch</q> is characteristic of Rembrandt and shows the whole situation in minature.  The members of Captain Banning Cocq's Company of the Civic Guards were flattered by the offer of Rembrandt, then at the height of his fame, to paint their portraits.  The sixteen members destined to figure in the picture gladly subscribed one hundred florins each, and great were their expectations; but even greater their disappointment when the picture was placed on view.  All but a half-dozen felt that they had a distinct grievance against the painter.  Had they not paid for portraits of themselves?  And they got&mdash;what?  Here a face in deep shadow, here one half-hid by the one in front, here one so freely drawn as to be unrecognizable.  The artist had made a picture, to be sure&mdash;but their portraits!  Where were their portraits&mdash;the portraits they had paid for?  Rembrandt had thought out every inch of his picture: he was sure it could not be better, and change it he would not.  The resentment was bitter and deep, and the Civic Guards in future bestowed their favors elsewhere.
+</p>
+<p>
+There were, however, some fellow citizens who recognized his genius and sincerity.  These stood
+<pb n="19" />
+by him.  Samuel Manasseh ben Israel, whom Cromwell honored, was his neighbor on the Breedstraat, and an intimate friend.  Then there were Jan Sylvius and Cornells Anslo, the Protestant ministers;
+Fan Asselyn and Clement de Jonghe, who were artists; Bonus and Linden, the physicians; Lutma, the goldsmith, and young Jan Six, <q>Lover of science, art and virtue.</q>  These and a few others are known and honored to-day chiefly because they were Rembrandt's friends.  His recognition of their
+<pb n="20" />
+faithulness to him was shown in a much more permanent form than they knew.  Good impressions of
+his etched portraits of these men are still to be seen.  
+They are, like all his etchings, rapidly increasing in
+value.  A <q>Jan Six</q> sold recently for over $14,000;
+an <q>Ephraim Bonus</q> (No. 226) for $9,000.  To
+possess such a portrait of an ancestor is little short
+of a patent of nobility.  The Six family of Amsterdam
+happily have not only Rembrandt's oil-portraits of
+the Sixes of his day, but also good impressions of
+the etching of the burgomaster, and even the plate
+itself&mdash;that famous dry-point plate, which the artist
+worked on for weeks, and which his critics have
+worked over ever since.  Some of these critics hold
+that even Rembrandt should not have attempted such
+complete tonality in an etching, that Jan Six urged
+him to it, and that, in short, as an etching, it comes
+near to the failure line.  Other critics believe that
+the artist's idea was to show the utmost extent to
+which the art could be carried, and that in so doing
+he produced a masterpiece.  Middleton, for instance,
+thinks that <q>it is not possible to conceive a move
+beautiful and more perfect triumph of the etcher's
+art.</q>  Few, it is safe to say, can see a good impression of an early state of this portrait without
+being struck by its great originality and beauty, and
+upon closer study, I feel a fair-minded person will
+inevitably fall under the spell of the wonderfully
+drawn face and hands, the deep, transparent shadows,
+and the soft, tender light which envelopes the whole.
+</p>
+<figure url="images/jaclaban.jpg" rend="w80">
+<index index="fig" />
+<head><emph>No. 183. Jacob and Laban (?).</emph></head>
+<figDesc>No. 183. Jacob and Laban (?)</figDesc>
+</figure>
+
+<pb n="21" />
+
+<figure url="images/jansix.jpg" rend="w90">
+<index index="fig" />
+<head><emph>No. 228. Jan Six.</emph></head>
+<figDesc>No. 228. Jan Six.</figDesc>
+</figure>
+
+<figure url="images/tobias.jpg" rend="w90">
+<index index="fig" />
+<head><emph>Tobias and the Angel. By Hercules Seghers</emph></head>
+<figDesc>Tobias and the Angel. By Hercules Seghers</figDesc>
+</figure>
+
+<figure url="images/flight.jpg" rend="w90">
+<index index="fig" />
+<head><emph>(No. 266). The Flight into Egypt.</emph></head>
+<figDesc>(No. 266). The Flight into Egypt.</figDesc>
+</figure>
+<p>
+Although Rembrandt had a few such cultivated
+<pb n="22" />
+friends as those mentioned above, it was said of him by a contemporary German painter that <q>his art suffered by his predilection for the society of the vulgar.</q>  It certainly would have been more profitable for Rembrandt if he had always portrayed people of position and wealth, but that his art suffered because he many times used beggers for models it would be impossible to show.  An interesting series of tramps, peddlers and outcasts began with the beginning of his career as an etcher, and ended twenty years later with the production of one of his most popular plates, <q>Beggars Receiving Alms at the Door of a House,</q> (No. 233) a very freely handled, splendidly composed etching, in which surprisingly few lines judiciously placed do the work usually allotted to double their number.  A little plate of less than
+<pb n="23" />
+four square inches, entitled <q>The Quacksalver,</q> (No. 139), strikes me as the masterpiece of this series.  Although Van de Velde is supposed to have given Rembrandt the idea for his drawing, his genius made it his own in realism and movement, and in its beauties of line, color and texture.  <q>An Old Woman Sleeping</q> (No. 129)), although scarcely to be included in this series, is another that has wonderful spontaneity.  This is no posed model, but one who has actually fallen asleep over her book; Rembrandt sees her, and before her <q>forty winks</q> are over, she is immortalized, and probably she never knew it.  About 1640 Rembrandt began etching landscapes.  They are free and simple in composition and treatment and show even greater force and more suggestive power than those that he painted.  Practically
+<pb n="24" />
+all of his two dozen landscape plates hold undisputed first rank.  They always have and probably always will.  In <q>Landscape with Trees, Farm-buildings and a Tower</q> (No. 244), the tower is <q>ruined</q> in the third state.  A first state print at the Boston Museum of Fine Arts shows the tower in good preservation.  One of these prints sold at auction not long ago for over $9,000.  Another of the exceedingly satisfactory etchings in the series, one that has exercised a great influence on landscape etching all the world over, is <q>Omval</q> (No. 210).  Its creator seemed fond of the fine old tree in this plate.  He used it several times elsewhere.  <q>Six's Bridge</q> (No. 209) which is almost pure outline, and the <q>Three Trees</q> (No. 205), with its great sweep of flat country, have a right to all the praise showered upon them.  They, too, are masterpieces.
+</p>
+<p>
+While Rembrandt's genius made itself manifest in his landscapes, it surely is absent from most of his animal drawings.  We must remember that if he ever went outside of Holland it was for a few months to the east coast of England, and that the opportunity for studying any great variety of animals in either place was not great.  His horses, asses, hogs, etc., improve as the years advance.  The little dog with the collar of bells is well drawn.  He, undoubtedly, was a member of the family.
+</p>
+
+<pgIf output="pdf">
+<then>
+  <p>
+   <figure url="images/christpv.jpg" rend="w90">
+   <index index="fig" />
+   <head><emph>No. 256.  Christ Preaching.</emph></head>
+   <figDesc>No. 256.  Christ Preaching.</figDesc>
+   </figure>
+  </p>
+</then>
+</pgIf>
+
+<pgIf output="html">
+<then>
+  <p>
+   <figure url="images/christpr.jpg" rend="w90">
+   <index index="fig" />
+   <head><emph>No. 256.  Christ Preaching.</emph></head>
+   <figDesc>No. 256.  Christ Preaching.</figDesc>
+   </figure>
+  </p>
+</then>
+</pgIf>
+
+<p>
+It is an interesting fact, at a time when the illustrating of books and magazines is such an important art, to know that Rembrandt was offered and accepted some commissions to make illustrations for
+<pb n="25" />
+<pb n="26" />
+books.  These attempts to give form to another's ideas were not successful&mdash;in one case it was such a failure as to leave it still uncertain what he intended to illustrate.  Vosmaer, his great biographer, says that this print <q>The Ship of Fortune</q> (No. 106), pictures incidents in the life of St. Paul, while Michel, another biographer, thinks that it illustrates events which gather about Mark Anthony and the battle of
+Actium!
+</p>
+<p>
+A score of men&mdash;Bartsch, Wilson, Blanc, Middleton, Rovinski, to mention a few&mdash;have at sundry times and in divers places compiled annotated catalogues of Rembrandt's etchings.  They, and other students like Vosmaer, Haden, Hamerton and Michel, have given years to study and travel in connection with their books on Rembrandt.  All lovers of etching appreciate this and are grateful.  Nevertheless, it is amusing sometimes to compare their expert testimony.  About 1633 somebody etched a <q>Good Samaritan.</q>  Several of these experts regretfully, but frankly, admit that Rembrandt is the guilty one.   Others are sure that a pupil did the worst of the work; Haden says it is entirely the work of another hand; while yet another declares that of all Rembrandt's etchings this particular <q>Good Samaritan</q> (No. 101) is his favorite.  Middleton, to give another instance, thinks that the thick lines from top to bottom, in the fourth state of the <q>Christ Crucified between Two Thieves,</q> (<q>The Three Crosses</q>) (No. 270) are not Rembrandt's work, for they serve <q>to obliterate, conceal and mar every excellence it had
+<pb n="27" />
+possessed.</q>  Haden, however, considers that the time of darkness is represented, and that this particular state is far the finest in effect.  Much confusion arises from the fact that sometimes all the states of a plate under discussion are not known to each critic.  The whole matter of states is a confusing one.  The old idea was that Rembrandt produced various states in order to make more money.  But it seems plain now that when Rembrandt changed a plate it was for much better reasons than the making of a few guilders.  We know, for instance, that the <q>Jan Six</q> plate was changed twice to make needed corrections, and that the second state of the first portrait of his mother simply carries out the original design.  On the other hand, it obviously could not have been Rembrandt who made the third state of the <q>Jan Lutma,</q> with its hard, ruled lines and great unnecessary window.
+</p>
+<p>
+If in the days of hardship, when his son, Titus, peddled his etchings from door to door, he could have foreseen the great army of admirers who three centuries later should outbid each other at auctions, and make war in print over his experimental plates, his failures and his trial-proofs&mdash;now often exalted into <q>states</q>&mdash;the very irony of the thing would surely have brought him genuine satisfaction and relaxation.
+</p>
+<p>
+Rembrandt has said of himself that he would submit to the laws of Nature alone, and as he interpreted these to suit himself, he cannot be said to have painted, or etched, or done anything in accord with
+<pb n="28" />
+our interpretation of recognized or well-grounded laws.  With him it was instinct, pure and simple, from youth to old age. He had no secret process of painting or etching; but he had an amazing genius for both.
+</p>
+<p>
+One October day in 1669 an old man, lonely and forgotten, died in Amsterdam.  They buried him in the Wester Kerk and, that he might not be confounded with some other old man, they wrote in the <q>Livre Mortuaire</q> of the Kerk, <q>Tuesday, 8th oct., 1669, rembrant van rijn, painter on the rozengraft, opposite the doolhof. leaves two children.</q>
+</p>
+<p>
+Of material things he left little; but the two children: Cornelia, his fifteen year old daughter, and Titia, the posthumous, infant child of Titus, would keep his name alive!   Less than a score of years and the family record comes to an abrupt end.  No one to-day may claim descent from Rembrandt, but his name has not perished from the earth, nor his influence abated among the sons of men.  His name took on new life when he laid it aside; his influence strengthened when he ceased personally to exercise it.  Who of us is not his grateful heir?  Who does not now do loving reverence to this poor <q>painter on the rozengraft, opposite the doolhof?</q>  He surely stands among the immortals, one of the foremost painters of all time, the greatest etcher that has yet appeared.
+</p>
+<pb n="29" />
+<p>
+NOTE&mdash;The foregoing article was published a few years ago in <title>The Craftsman</title>.  Of the many commendations received at that time we print but one:
+</p>
+
+<div>
+<p>
+<q>New York, Dec'r. 5, 1906. Dear Mr. Holman; *** I send you my special thanks for your article on the etchings of Rembrandt.  I have read it carefully, and let me say plainly that I think is the best short treatise on this great subject which ever I have read.  The knowledge of the subject as treated by many writers is so superficial&mdash;but yours is profound.  You have evidently made a serious study of your subject.  Yours very truly,</q>
+</p>
+<closer>
+<signed>
+(Signed) Frederick Keppel.
+</signed>
+</closer>
+</div>
+
+<figure url="images/oldwoman.jpg" rend="w30">
+<index index="fig" />
+<head><emph>No. 129. Old Woman Sleeping.</emph></head>
+<figDesc>No. 129. Old Woman Sleeping.</figDesc>
+</figure>
+
+</div>
+
+<div rend="page-break-before: right">
+  <index index="toc" />
+  <index index="pdf" />
+  <head>COMPLETE CHRONOLOGICAL LIST OF THE ETCHINGS OF REMBRANDT</head>
+<pb n="30" />
+<p>
+<emph></emph>Here re-printed from Hind's <title>Rembrandt's Etchings</title> (London, 1912) by special arrangement with the publishers, Methuen &amp; Co.<note place="foot">
+<p>
+Impressions of all of Rembrandt's Etchings, except those listed below, may be seen in the Print Study Room of the Museum of Fine Arts, Boston&mdash;2*, 3, 4, 4*, 5, 10, 25, 35, 36. 40, 41, 41a, 41b, 41d, 45, 46, 59, 60, 61, 64, 65, 67, 70, 71, 74, 75, 75*, 77, 77*, 78, 78*, 79, 81, 87, 88, 102, 117, 118, 133, 166, 175, 184, 193, 197, 207, 223, 224, 247, 261, 262, 289, 295, 300*.
+</p>
+</note>
+</p>
+
+<div>
+<head>ABBREVIATIONS, ETC.</head>
+<list type="simple">
+<item>h.&mdash;head</item>
+<item>b.&mdash;bust</item>
+<item>r.&mdash;right</item>
+<item>l.&mdash;left </item>
+<item>S.&mdash;signed</item>
+<item>D.&mdash;dated</item>
+<item>ab.&mdash;about</item>
+<item>R.&mdash;Rembrandt</item>
+<item>Imp.&mdash;impression</item>
+<item>I S., V S., etc.&mdash;first state, fifth state, etc.</item>
+<item>2 S., 7 S., etc.&mdash;two states, seven states, etc.</item>
+<item>When no number of states is given there is but one.</item>
+<item>Mod.&mdash;Modern impression. (This does not count
+as a state.)</item>
+<item>&dagger;&mdash;of doubtful authenticity. [only.]</item>
+</list>
+
+<p>
+The sizes are of the plates,&mdash;not of the etched surface.
+</p>
+<p>
+When the states vary in size that of the first state
+alone is given.
+</p>
+<p>
+The sizes are given in millimeters.  25 millimeters equal about 1 inch.<lb />
+</p>
+
+<list type="simple">
+<item>1 <hi rend="font-weight: bold"> R's Mother: </hi>h. &amp; b. three-quarters r.
+(After I S.  S. &amp; D.), 1628.  2 S.  66&times;63</item>
+<item>2 <hi rend="font-weight: bold"> R's Mother:</hi> h. only, full face.
+(After I S.   S. &amp; D.). 1628.   2 S.    85&times;72</item>
+<item>2* <hi rend="font-weight: bold"> R. With a Broad Nose.</hi>	Ab. 1628.   70&times;58</item>
+<item>3 <hi rend="font-weight: bold">   R. Bareheaded, with high curly hair:</hi> h. &amp; b.	Ab. 1628.  90&times;72</item>
+<item>4<hi rend="font-weight: bold">   R. Bareheaded:</hi> large plate roughly etched: h. &amp; b.
+S. &amp; D. (in reverse) 1629.   178&times;154</item>
+<item>4* <hi rend="font-weight: bold"> Aged Man of Letters.</hi>	Ab. 1629.   238&times;200</item>
+<item>5<hi rend="font-weight: bold">   Peter and John at Gate of Temple:</hi> roughly etched.
+Ab. 1629-30,   221&times;170</item>
+<item>6 <hi rend="font-weight: bold">    Small Lion Hunt (with one lion).</hi>	Ab. 1629-30.   158&times;118</item>
+<item>7 <hi rend="font-weight: bold">   Beggar Man and Beggar Woman Conversing.</hi>
+S. &amp; D., 1630.   2 S. Mod.   78&times;66</item>
+<item>8 <hi rend="font-weight: bold">   Beggar Seated Warming Hands at Chafing Dish.</hi>
+Ab. 1630.   2 S.   78&times;46</item>
+<item>9 <hi rend="font-weight: bold">   Beggar Leaning on Stick, facing l.</hi>	Ab. 1630.   85&times;46</item>
+<item>10 <hi rend="font-weight: bold">   Beggar in Long Cloak, sitting in arm-chair.</hi>	Ab. 1630.115&times;78</item>
+<item>11 <hi rend="font-weight: bold">    Beggar Seated on Bank.</hi>	S. &amp; D., 1630.   2 S.   116&times;69</item>
+<item>12 <hi rend="font-weight: bold">   Beggar with Wooden Leg.</hi>	Ab. 1630.   3 S.   Mod.   114&times;66</item>
+<item>13 <hi rend="font-weight: bold">   Beggar Man and Beggar Woman, behind bank.</hi>
+(I, II, III S. S.) Ab. 1630. 7 S. 116&times;84</item>
+<item>14 <hi rend="font-weight: bold">   Man in Cloak and Fur Cap,  leaning against bank.</hi>
+S. (in reverse).   Ab. 1630.   Mod. 112&times;78</item>
+
+<item>15 <hi rend="font-weight: bold">    Beggar in High Cap, standing and leaning on stick.</hi>
+Ab. 1630, or later?    2 S. 156&times;120</item>
+
+<pb n="30" />
+
+<item>16 <hi rend="font-weight: bold"> Ragged Peasant with Hands Behind Him,</hi> holding stick.
+Ab. 1630.   5 S.   92&times;77</item>
+
+<item>17 <hi rend="font-weight: bold"> Flight into Egypt:</hi> sketch.
+Ab. 1630. 6 S. 135&times;84</item>
+
+<item>18 <hi rend="font-weight: bold"> Presentation in Temple</hi> (with the angel): small plate.
+S. &amp; D., 1630.     2 S.     120&times;78</item>
+
+<item>19 <hi rend="font-weight: bold"> Circumcision:</hi> small plate.	Ab. 1630. 88&times;64</item>
+
+<item>20 <hi rend="font-weight: bold"> Christ Disputing with Doctors:</hi> small plate.
+(I &amp; II S.   S. &amp; D.), 1630.   3 S. Mod.   109&times;78</item>
+
+<item>21 <hi rend="font-weight: bold"> B. of Man (R's Father?),</hi> Full face, wearing close cap.
+(After I S. S. &amp; D.), 1630.    6S.   97&times;73 </item>
+
+<item>22 <hi rend="font-weight: bold"> B. of Man (R's Father?),</hi> Wearing high cap, three-quarters r.
+S. &amp; D., 1630.   3 S. Mod.   105&times;78</item>
+
+<item>23 <hi rend="font-weight: bold"> Bald-Headed Man (R's Father?)</hi> Profile r. h. only, b. added afterwards.
+	S. &amp; D. 1630.   3 S.   118&times;97</item>
+
+<item>24 <hi rend="font-weight: bold"> Bald-Headed Man (R's Father?),</hi> Profile r.; small b.
+S. &amp; D., 1630.   2 S,   57&times;43</item>
+
+<item>25 <hi rend="font-weight: bold"> Three Studies of Old Men's Heads.</hi>	Ab. 1630.   79&times;81</item>
+
+<item>26 <hi rend="font-weight: bold"> B. of Old Man with Flowing Beard and White Sleeve.</hi>
+Ab. 1630.   71&times;64</item>
+
+<item>27 <hi rend="font-weight: bold"> B. of Old Man.with Flowing Beard:</hi> h. bowed forward: l. shoulder
+unshaded.
+S. &amp; D., 1630.   89&times;75</item>
+
+<item>28 <hi rend="font-weight: bold"> B. of Old Man with Flowing Beard:</hi> h. inclined three-quarters r.
+S. &amp; D., 1630.   98&times;81</item>
+
+<item>29 <hi rend="font-weight: bold"> R. in Fur Cap:</hi> dress light, b.
+	S. &amp; D., 1630. 5 S. 92&times;70</item>
+
+<item>30 <hi rend="font-weight: bold"> R. Bareheaded,</hi> in sharp light from r.; looking over his shoulder: b.
+S. &amp; D., 1630.   3 S.   75&times;75</item>
+
+<item>31 <hi rend="font-weight: bold"> R. Bareheaded and Open-Mouthed,</hi> as if shouting: b.
+S. &amp; D. 1630.   3 S.   83&times;72</item>
+
+<item>32 <hi rend="font-weight: bold"> R. in Cap, Open-Mouthed and Staring:</hi> b. in outline.
+S. &amp; D., 1630.   51&times;46</item>
+
+<item>33 <hi rend="font-weight: bold"> R. Bareheaded, with Thick Curling Hair</hi> and small white collar: b.	   S. Ab. 1630.   2 S.   57&times;49</item>
+
+<item>34 <hi rend="font-weight: bold"> R. in Cap,</hi> laughing: b.                                     S. &amp; D., 1630.   6 S.   50&times;44</item>
+
+<item>35 <hi rend="font-weight: bold"> R. Bareheaded,</hi> leaning forward as if listening: b.
+Ab. 1630.    67&times;53</item>
+
+<item>36 <hi rend="font-weight: bold"> R. Bareheaded,</hi> leaning forward: b. lightly indicated.
+Ab. 1630-31.   4 S.   61-64&times;48-49</item>
+
+<item>37 <hi rend="font-weight: bold"> H. of Man in Fur Cap,</hi> crying out.	Ab. 1631. 4 S. 34&times;28</item>
+
+<item>38 <hi rend="font-weight: bold"> Blind Fiddler.</hi> S. &amp; D., 1631. 4 S. 78&times;53</item>
+
+<item>39 <hi rend="font-weight: bold"> H. of Man in High Cap:</hi> three-quarters r. Ab. 1631. 2 S. 36&times;22</item>
+
+<item>40 <hi rend="font-weight: bold"> Polander Standing with Stick:</hi> profile to r.
+S. &amp; D., 1631.   58&times;21</item>
+
+<item>41 <hi rend="font-weight: bold"> Sheet of Studies of Men's Heads.</hi>
+S. (in reverse).   Ab. 1631.   2 S.   98&times;124</item>
+
+<item>41a <hi rend="font-weight: bold"> Old Bearded Man Nearly in Profile to r.:</hi> mouth half open.
+5 S.    (After II S.   36&times;28)</item>
+
+<item>41b <hi rend="font-weight: bold"> Old Man in Fur Coat and High Cap:</hi> b. 9 S. (After III S. 36&times;28)</item>
+
+<item>41c <hi rend="font-weight: bold"> Old Man Seen from Behind:</hi> Profile to r.: half figure. 6 S.   (After II S.   72&times;42)</item>
+
+<item>41d <hi rend="font-weight: bold"> Man in Square Cap,</hi> in profile r. 4S. (After II S.   45&times;23)</item>
+
+<item>41e <hi rend="font-weight: bold"> Man Crying Out,</hi> three-quarters l.: b. 7S.   (After II S.   39&times;34)</item>
+
+<item>42 <hi rend="font-weight: bold"> Diana at the Bath.</hi> S.   Ab. 1631.   177&times;158</item>
+
+<item>43 <hi rend="font-weight: bold"> Naked Woman Seated on Mound.</hi> S.   Ab. 1631.   3 S.   177&times;160</item>
+
+<item>44 <hi rend="font-weight: bold"> Jupiter and Antiope:</hi> smaller plate. S.    Ab. 1631. 3 S.   84&times;112</item>
+
+<item>45 <hi rend="font-weight: bold"> Man Making Water.</hi> S. &amp; D.. 1631.   2 S.   84&times;49</item>
+
+<pb n="32" />
+
+<item>46 <hi rend="font-weight: bold">Woman Making Water.</hi>	S. &amp; D., 1631.   84&times;63</item>
+
+<item>47 <hi rend="font-weight: bold">B. of Old Bearded Man Looking Down,</hi> three quarters r.
+S. &amp; D., 1631.   2 S.   119&times;117</item>
+
+<item>48 <hi rend="font-weight: bold">   B. of Old Man with Flowing Beard:</hi>    h. nearly erect: eyes cast
+down: looking slightly l.	S. &amp; D., 1631.   2 S.   67&times;64</item>
+
+<item>49 <hi rend="font-weight: bold">   B. of Old Man with Fur Cap and Flowing Beard:</hi>  nearly
+full face: eyes direct.	Ab. 1631.   2 S.   62&times;53</item>
+
+<item>50 <hi rend="font-weight: bold">   R's Mother with Hand on Chest:</hi> small b.
+S. &amp; D., 1631.   4S.   Mod.   94&times;66</item>
+
+<item>51 <hi rend="font-weight: bold">   R.'s Mother Seated Facing R.,</hi> in Oriental head-dress: half length,
+showing hands.	S. &amp; D., 1631.   3 S.   145&times;129</item>
+
+<item>52 <hi rend="font-weight: bold">   R.'s Mother Seated at Table Looking R.:</hi> three-quarter length.
+S.   Ab. 1631.   4 S.   147&times;130</item>
+
+<item>53 <hi rend="font-weight: bold">   Bearded Man (R.'s Father?)</hi> in Furred oriental cap and robe: half
+length.	(After IS.   S. &amp; D.), 1631.   4 S.   146&times;130</item>
+
+<item>54 <hi rend="font-weight: bold">   R. Wearing Soft Hat, Cocked:</hi> h. only: body added afterwards
+(On IV-VII S.    S. &amp; D.), 1631.    9 S.    146&times;130</item>
+
+<item>55 <hi rend="font-weight: bold">   R. with Long Bushy Hair,</hi> h. only.	Ab. 1631.   6 S.   90&times;76</item>
+
+<item>56 <hi rend="font-weight: bold">   R. in Heavy Fur Cap:</hi> full face: b.	S. &amp; D. 1631.   63&times;58</item>
+
+<item>57 <hi rend="font-weight: bold">   R. Wearing Soft Cap:</hi> full face: h. only	Ab. 1631.  50&times;44</item>
+
+<item>58 <hi rend="font-weight: bold">   R. with Cap Pulled Forward:</hi> b,	Ab. 1631.   5 S.   Mod.  56&times;45</item>
+
+<item>59 <hi rend="font-weight: bold"> R. with Fur Cap,</hi> in oval border: b.	Ab. 1631 (or earlier). 90&times;53</item>
+
+<item>60&dagger; <hi rend="font-weight: bold"> R. with Bushy Hair and Contracted Eyebrows:</hi> b.
+S. &amp; D., 1631. 3 S. 59&times;55</item>
+
+<item>61 <hi rend="font-weight: bold">R. Bareheaded,</hi> light from r.: b. (II S. only. S.) Ab. 1631. 2 S. 65&times;63</item>
+
+<item>62&dagger; <hi rend="font-weight: bold"> R. in Slant Fur Cap:</hi> b. S. &amp; D., 1631.   2 S.  63&times;56</item>
+ 
+<item>63 <hi rend="font-weight: bold"> R. in Cloak with Falling Collar:</hi> b. S. &amp; D., 1631. 5 S. 64&times;54</item>
+
+<item>64&dagger; <hi rend="font-weight: bold"> R. with Jewel in Cap.</hi>	Ab. 1631. 2 S. 84&times;79</item>
+
+<item>65&dagger; <hi rend="font-weight: bold"> B. of Young Man in Cap.</hi> (I S. only. S. &amp; D.), 1631. 2 S. 61&times;57</item>
+
+<item>66 <hi rend="font-weight: bold">   R. in Dark Cloak and Cap:</hi> b.	Ab. 1631.  3 S. 84&times;82</item>
+
+<item>67 <hi rend="font-weight: bold">   R. (?) Scowling,</hi> in octagon: h. only. Ab. 1631.   38&times;35 </item>
+
+<item>68 <hi rend="font-weight: bold">   Grotesque Profile:</hi> man in high cap. Ab. 1631.    4 S.   38&times;25</item>
+
+<item>69 <hi rend="font-weight: bold"> Peasant with Hands Behind Back.</hi> S. &amp; D., 1631. 4 S. 59&times;49</item>
+
+<item>70&dagger; <hi rend="font-weight: bold"> B. of Snub-Nosed Man in Cap:</hi> profile r. S. &amp; D., 1631. 43&times;38</item>
+
+<item>71&dagger; <hi rend="font-weight: bold"> B. of Man in Cap,</hi> bound round the ears and chin. Ab. 1631. 54&times;38</item>
+
+<item>72 <hi rend="font-weight: bold"> Beggar with Stick,</hi> walking, l.	S. &amp; D.. 1631.   3 S.   82&times;39</item>
+
+<item>73 <hi rend="font-weight: bold"> Beggar with L. Hand Extended.</hi>
+(After I S.    S. &amp; D.). 1631.   5 S.   77&times;50</item>
+
+<item>74 <hi rend="font-weight: bold"> Blindness of Tobit:</hi> sketch.	Ab. 1631.   5 S.   81&times;70</item>
+
+<item>75 <hi rend="font-weight: bold"> Seated Beggar and Dog.</hi> (II S. only. S. &amp; D.), 1631. 2 S. 109&times;81</item>
+
+<item>75* <hi rend="font-weight: bold"> Stout Man in Large Cloak.</hi>	Ab. 1631. 113&times;74</item>
+
+<item>76&dagger; <hi rend="font-weight: bold"> Old Woman Seated In Cottage,</hi> with string of onions on wall.
+(II S. only.   S. &amp; D.). 1631,   3 S.   128&times;89</item>
+
+<item>77 <hi rend="font-weight: bold"> Leper <q>Lazarus Klap.</q></hi> (After I S. S. &amp; D, 1631). 6 S. 102&times;76</item>
+
+<item>77* <hi rend="font-weight: bold"> Beggar Man and Beggar Woman.</hi>	Ab. 1631. 101&times;76</item>
+
+<item>78 <hi rend="font-weight: bold">  Two Beggars Tramping Towards R.</hi>
+(On II S.   S.)   Ab. 1631.   2 S.   95&times;59</item>
+
+<item>78* <hi rend="font-weight: bold"> Two Studies of Beggars.</hi>	Ab. 1631.   93&times;74</item>
+
+<item>79 <hi rend="font-weight: bold">   Beggar with Crippled Hand Leaning on Stick R.</hi>
+Ab. 1631.   5 S.   97&times;42</item>
+
+<item>80 <hi rend="font-weight: bold"> Old Beggar Woman with Gourd.</hi> Ab. 1631. 2 S. Mod. 102&times;45 </item>
+
+<item>81&dagger; <hi rend="font-weight: bold"> Beggar Standing Leaning on Stick L.:</hi> small plate.
+(S.   Ab. 1631.   42&times;20</item>
+
+<pb n="33" />
+
+<item>82&dagger; <hi rend="font-weight: bold"> B. of Old Woman in Furred Cloak</hi> and heavy head-dress.
+S. &amp; D., 1631.   5 S.  58&times;53</item>
+
+<item>83&dagger; <hi rend="font-weight: bold">B. of Old Woman in High Head-Dress</hi> bound round chin.
+Ab. 1631.   2 S.   71&times;72</item>
+
+<item>84&dagger; <hi rend="font-weight: bold"> B. of Beardless Man  (R.'s   Father?)</hi> in fur cloak and  cap: looking down: three-quarters l.         S. &amp; D. (twice), 1631.   3 S.   74&times;58</item>
+
+<item>85&dagger; <hi rend="font-weight: bold"> B. of Bald Man (R.'s Father?)</hi> in fur cloak looking r.
+S. &amp; D., 1631.   3 S.   66&times;58</item>
+
+<item>85&dagger; <hi rend="font-weight: bold"> B. of Bald Man Looking Down, Grinning.</hi>
+S. &amp; D., 1631.   3 S.   69&times;57</item>
+
+<item>87&dagger; <hi rend="font-weight: bold"> B. of Old Bearded Man with High Forehead</hi> and close cap.
+S. &amp; D., 1631.   2 S.   88&times;74</item>
+
+<item>88&dagger; <hi rend="font-weight: bold"> B.  of  Old  Man   Looking Down,</hi> with wavy hair and beard: cap
+added afterwards.	(II S. only. S.)   Ab. 1631.   3 S.   57&times;49</item>
+
+<item>89&dagger; <hi rend="font-weight: bold"> Small B. of Bearded Man  Looking  Down,</hi> with eyes nearly
+closed.	Ab. 1631?   2 S.   44&times;44</item>
+
+<item>90 <hi rend="font-weight: bold">   Sheet of Studies:</hi> h. of R., beggar couple, h.'s of old man and old
+woman, etc.	Ab. 1632.   2 S.   101&times;113</item>
+
+<item>91&dagger; <hi rend="font-weight: bold"> R.'s Mother in Widow's Dress and Black Gloves.</hi>
+S.    Ab. 1632?    Mod.   150&times;114</item>
+
+<item>92 <hi rend="font-weight: bold">Old Man Seated, with Flowing Beard,</hi> fur cap and velvet cloak.
+S. &amp; D.   Ab. 1632.   3 S.    Mod.   150&times;129</item>
+
+<item>93 <hi rend="font-weight: bold"> Man Standing in Oriental Costume</hi> and plumed fur cap
+S. &amp; D., 1632.   Mod.   107&times;78</item>
+
+<item>94 <hi rend="font-weight: bold"> St. Jerome Praying:</hi> arched print.	S. &amp; D., 1632.   3 S.   108&times;80</item>
+
+<item>95 <hi rend="font-weight: bold"> Holy Family.</hi> S. Ab. 1632. 95&times;71</item>
+
+<item>96 <hi rend="font-weight: bold"> Raising of Lazarus:</hi> larger plate. S. Ab. 1632. 12 S. Mod. 366&times;258</item>
+
+<item>97 <hi rend="font-weight: bold"> Rat-Killer.</hi> S. &amp; D., 1632. 2 S. 140&times;124</item>
+
+<item>98 <hi rend="font-weight: bold"> Polander Leaning on Stick:</hi> profile l. Ab. 1632. 6 S. 82&times;43</item>
+
+<item>99 <hi rend="font-weight: bold"> Turbaned Soldier on Horseback.</hi>
+S. (in reverse).   Ab. 1632.   2 S.   81&times;58</item>
+
+<item>100 <hi rend="font-weight: bold"> Cavalry Fight.</hi>	Ab. 1632-3. 2 S. 108&times;83</item>
+
+<item>101 <hi rend="font-weight: bold"> Good Samaritan.</hi> (I V S. only. S. &amp; D.), 1633. 4 S. 258&times;218</item>
+
+<item>102 <hi rend="font-weight: bold"> Descent from Cross:</hi> first plate. S. &amp; D., 1633. 516&times;402</item>
+
+<item>103 <hi rend="font-weight: bold"> Descent from Cross:</hi> second plate.
+S. &amp; D., 1633.   5 S. Mod.   530&times;410</item>
+
+<item>104 <hi rend="font-weight: bold"> Joseph's Coat Brought to Jacob.</hi> S. Ab. 1633. Mod. 107&times;80</item>
+
+<item>105 <hi rend="font-weight: bold"> Flight into Egypt:</hi> small plate.	S. &amp; D., 1633. 2 S. 89&times;62</item>
+
+<item>106 <hi rend="font-weight: bold"> Ship of Fortune.</hi> S. &amp; D., 1633. 3 S. 111&times;177</item>
+
+<item>107 <hi rend="font-weight: bold"> R.'s Mother in Cloth Head-Dress,</hi> looking down: h. only.
+(After I S. S. &amp; D.), 1633.   3 S.   62&times;58</item>
+
+<item>108 <hi rend="font-weight: bold"> R. in Cap and Scarf:</hi> face dark: b.
+(II S. only.   S. &amp; D.), 1633.   2 S.   Mod.   146&times;ab. 119</item>
+
+<item>109 <hi rend="font-weight: bold"> R. with Raised Sabre:</hi> half length.      S. &amp; D., 1634.  3 S.   124&times;108</item>
+
+<item>110 <hi rend="font-weight: bold"> R. with Plumed Cap and Lowered Sabre:</hi> three-quarter length:
+afterwards b. in oval.	S. &amp; D., 1634.   3 S.   Mod.   197&times;162</item>
+
+<item>111 <hi rend="font-weight: bold"> Jan Cornelis Sylvius, Preacher. (?)</hi>
+S. &amp; D.. 1634.   2 S.    Mod.    167&times;140</item>
+
+<item>112 <hi rend="font-weight: bold"> R.'s Wife Saskia,</hi> with pearls in her hair, b. S. &amp; D., 1634.   86&times;66</item>
+
+<item>113 <hi rend="font-weight: bold"> Woman Reading.</hi>	S. &amp; D., 1634. 3 S.   123&times;100</item>
+
+<item>114 <hi rend="font-weight: bold"> Peasant, One of Pair, Calling Out.</hi> S. &amp; D., 1634.   112&times;43</item>
+
+<item>115 <hi rend="font-weight: bold"> Peasant: Other of Pair, Replying.</hi> S. &amp; D., 1634).   111&times;93</item>
+
+<item>116 <hi rend="font-weight: bold"> Two Tramps,</hi> Man and woman.	Ab. 1634.   62&times;47</item>
+
+<item>117 <hi rend="font-weight: bold"> Sheet of Two Slight Studies:</hi> one of two peasants
+Ab. 1634.   45&times;75</item>
+
+<pb n="34" />
+
+
+
+
+<item>118 <hi rend="font-weight: bold">Joseph and Potiphar's Wife.</hi> S. &amp; D., 1634. 2S. Mod. 90&times;114</item>
+
+
+<item>119 <hi rend="font-weight: bold">St. Jerome Reading.</hi>  S. &amp; D., 1634.   2 S. 108&times;89</item>
+
+
+<item>120 <hi rend="font-weight: bold">Angel Appearing to Shepherds.</hi>
+(After I S.   S. &amp; D.), 1634.   3 S.   Mod.   262&times;21</item>
+
+
+<item>121 <hi rend="font-weight: bold">Christ at Emmaus:</hi> smaller plate. S. &amp; D., 1634.   101&times;71</item>
+
+
+<item>122 <hi rend="font-weight: bold">Christ and Woman of Samaria:</hi> among ruins.
+S. &amp; D., 1634.   2 S.   Mod.   121&times;106</item>
+
+
+<item>123 <hi rend="font-weight: bold">Crucifixion;</hi> small plate.	S.   Ab. 1634.   Mod.   95&times;67</item>
+
+
+<item>124 <hi rend="font-weight: bold">Tribute-Money.</hi>	Ab. 1634.   2 S.   Mod.   73&times;103</item>
+
+
+<item>125 <hi rend="font-weight: bold">Stoning of St. Stephen.</hi> S. &amp; D., 1635.   Mod.   95&times;85</item>
+
+<item>126 <hi rend="font-weight: bold">Christ Driving Money-changers from Temple.</hi>
+S. &amp; D., 1635.   2 S. Mod.   135&times;167</item>
+
+<item>127 <hi rend="font-weight: bold">Girl with Hair Falling on Shoulders</hi> (The <q>Great Jewish Bride.</q>) (After I. S.   S. &amp; D., in reverse).   1635.   4 S.   220&times;168</item>
+
+<item>128 <hi rend="font-weight: bold">Jan Uytenbogaert,</hi> Preacher of sect of Arminian Remonstrants.
+(After II S.   S. &amp; D.), 1635.   6 S.   Mod.   250&times;187</item>
+
+<item>129 <hi rend="font-weight: bold">Old Woman Sleeping.</hi>	Ab. 1635-7.   69&times;52</item>
+
+<item>130 <hi rend="font-weight: bold">Old Bearded Man in High Fur Cap,</hi> with closed eyes.
+S. (also S. with initial R. in reverse).   Ab. 1635.   Mod.   112&times;100</item>
+
+<item>131 <hi rend="font-weight: bold">First Oriental H.</hi> (R.'s father?)   S. &amp; D., 1635. 2 S.   Mod.   150&times;124</item>
+
+<item>132 <hi rend="font-weight: bold">Second Oriental H.</hi> (R.'s father?)	S.   Ab. 1635.   150&times;125</item>
+
+<item>133 <hi rend="font-weight: bold">Third Oriental H.</hi> S. &amp; D., 1635.   155&times;134</item>
+
+<item>134 <hi rend="font-weight: bold">Fourth Oriental H.</hi>	S. (with initial R.) Ab. 1635. 3 S. 158&times;135</item>
+
+<item>135&dagger;<hi rend="font-weight: bold"> H. of Old Man in High Fur Cap.</hi> Ab. 1635. 44&times;32</item>
+
+<item>136 <hi rend="font-weight: bold"> Bald Old Man with Short Beard,</hi> in profile r.
+Ab. 1635.   2 S.   66&times;56</item>
+
+<item>137&dagger;<hi rend="font-weight: bold"> Curly-Headed Man with Wry Mouth.</hi>	Ab. 1635.   2 S.   64&times;60</item>
+
+<item>138 <hi rend="font-weight: bold">Polander Standing with Arms Folded.</hi>        Ab. 1635.   2 S.  51&times;47</item>
+
+<item>139 <hi rend="font-weight: bold">Quacksalver.</hi>	S. &amp; D., 1635.  77&times;36</item>
+
+<item>140 <hi rend="font-weight: bold">St. Jerome Kneeling in Prayer,</hi> Looking down.
+S. &amp; D., 1635.   Mod.   114&times;80</item>
+
+<item>141 <hi rend="font-weight: bold">Pancake Woman.</hi>	S. &amp; D., 1635. 6 S. Mod. 109&times;79</item>
+
+<item>142&dagger; <hi rend="font-weight: bold">Strolling Musicians.</hi> Ab. 1635. 2 S. Mod. 139&times;116</item>
+
+<item>143 <hi rend="font-weight: bold">Christ Before Pilate:</hi> large plate. S. &amp; D., 1635-6.   5 S.  550&times;446</item>
+
+<item>144 <hi rend="font-weight: bold">R. and His Wife Saskia:</hi> busts.    S. &amp; D., 1636.   2 S.   Mod. 104&times;95</item>
+
+<item>145 <hi rend="font-weight: bold">Studies of H. of Saskia and Others.</hi>
+S. &amp; D., 1636.   Mod.   151&times;127</item>
+
+<item>146  <hi rend="font-weight: bold">Samuel Manasseh Ben Israel,</hi> Jewish author.
+S. &amp; D., 1636.   3 S.   149&times;107</item>
+
+<item>147 <hi rend="font-weight: bold">Return of the Prodigal Son.</hi>	S. &amp; D., 1636.   Mod.   156&times;136</item>
+
+<item>148 <hi rend="font-weight: bold">Abraham Caressing Isaac.</hi>	S.   Ab. 1637.   2 S.   Mod.   116&times;89</item>
+
+<item>149 <hi rend="font-weight: bold">Abraham Casting Out Hagar and Ishmael.</hi>
+S. &amp; D., 1637.   125&times;95</item>
+
+<item>150 <hi rend="font-weight: bold">Bearded Man Wearing Velvet Cap with Jewel Clasp.</hi>
+S. &amp; D., 1637.   95&times;83</item>
+
+<item>151 <hi rend="font-weight: bold">Young Man in Velvet Cap</hi> with books beside him.
+S. &amp; D., 1637.   2 S.   96&times;83</item>
+
+<item>152 <hi rend="font-weight: bold">Three Heads of Women,</hi> one asleep.
+S. &amp; D.. 1637.   2 S.   Mod.  142&times;97</item>
+
+<item>153 <hi rend="font-weight: bold">Three Heads of Women,</hi> one lightly etched.
+Ab. 1637. 2 S. 127&times;102</item>
+
+<item>154 <hi rend="font-weight: bold">Study of Saskia as St. Catherine</hi> (The <q>Little Jewish Bride.</q>)
+S. &amp; D. (in reverse), 1638. 110&times;78</item>
+
+
+
+<pb n="35" />
+
+<item>155 <hi rend="font-weight: bold">  Sheet with Two Studies: </hi>A tree and upper part of h. wearing
+velvet cap.   H.	Ab. 1638: tree possibly later.   78&times;67</item>
+
+<item>156 <hi rend="font-weight: bold">  R. in Velvet Cap and Plume,</hi> with an embroidered dress: b.
+S. &amp; D., 1638.   Mod.   134&times;103</item>
+
+<item>157 <hi rend="font-weight: bold">  R. in Flat Cap,</hi> with shawl about shoulders.
+Ab. 1638.   2 S.   Mod.   93&times;62</item>
+
+<item>158 <hi rend="font-weight: bold">  Man in Broad-Brimmed Hat and Ruff.</hi>
+S. &amp; D., 1630 (or 1638).   Mod.   78&times;64</item>
+
+<item>159 <hi rend="font-weight: bold">  Adam and Eve.</hi>	S. &amp; D., 1638.   2 S.  161&times;116</item>
+
+<item>160 <hi rend="font-weight: bold">  Joseph Telling His Dreams.</hi>     S. &amp; D., 1638.  3 S.   Mod.   110&times;83</item>
+
+<item>161 <hi rend="font-weight: bold">  Death of Virgin.</hi>	S. &amp; D., 1639.   4 S.   Mod.   409&times;315</item>
+
+<item>162 <hi rend="font-weight: bold">  Presentation in Temple:</hi>  oblong print.
+Ab. 1639,  3 S.   Mod.   213&times;290</item>
+
+<item>163 <hi rend="font-weight: bold">  Sheet of Studies,</hi> with woman lying ill in bed. etc. Ab. 1639. 135&times;151</item>
+
+<item>164 <hi rend="font-weight: bold">  Peasant in High Cap,</hi> standing leaning on stick.
+S. &amp; D., 1639.    Mod.   83&times;44</item>
+
+<item>165 <hi rend="font-weight: bold">  Death Appearing to a Wedded Couple from Open Grave.</hi>
+S. &amp; D., 1639.   109&times;78</item>
+
+<item>166 <hi rend="font-weight: bold">  Skater.</hi>	Ab. 1639.   61&times;58</item>
+
+<item>167 <hi rend="font-weight: bold">  Jan Uytenbogaert,</hi> Receiver-general (The <q>Gold-Weigher</q>).
+S. &amp; D., 1639.  3 S.   Mod.   250&times;204</item>
+
+<item>168 <hi rend="font-weight: bold">  R. Leaning on Stone-Sill:</hi> half-length.
+S. &amp; D., 1630.   3(?) S.    205&times;164</item>
+
+<item>169 <hi rend="font-weight: bold">  Old Man Shading Eyes with Hand.</hi>	Ab. 1639.   2 S.   134&times;114</item>
+
+<item>170 <hi rend="font-weight: bold">  Old Man with Divided Fur Cap.</hi>	S. &amp; D., 1640.  3 S.   149&times;137</item>
+
+<item>171 <hi rend="font-weight: bold">  Beheading of John the Baptist.</hi>   S. &amp; D., 1640  2S. Mod.   128&times;103</item>
+
+<item>172  <hi rend="font-weight: bold"> Triumph of Mordecai.</hi>	Ab. 1640, or later.   174&times;215</item>
+
+<item>173 <hi rend="font-weight: bold">  Christ Crucified Between Two Thieves:</hi> oval plate.
+Ab. 1640, or later.   2 S.   Mod.   135&times;100</item>
+
+<item>174 <hi rend="font-weight: bold">  Sleeping Puppy.</hi>	Ab. 1640?  3 S.   64&times;105</item>
+
+<item>175 <hi rend="font-weight: bold">  Small Gray Landscape:</hi> House and trees beside pool.
+Ab. 1640.   38&times;82</item>
+
+<item>176 <hi rend="font-weight: bold">  View of Amsterdam.</hi>	Ab. 1640 (or earlier)   2 S.   112&times;153</item>
+
+<item>177 <hi rend="font-weight: bold">  Landscape with Cottage and Hay Barn:</hi> oblong.
+S. &amp; D., 1641.    129&times;321</item>
+
+<item>178 <hi rend="font-weight: bold">  Landscape with Cottage and Large Tree.</hi> S. &amp; D., 1641   125&times;320</item>
+
+<item>179 <hi rend="font-weight: bold">Windmill.</hi>	S. &amp; D., 1641. 144&times;207</item>
+
+<item>180 <hi rend="font-weight: bold">Small Lion Hunt,</hi> with two lions. Ab. 1641. 2S. 154&times;121</item>
+
+<item>181 <hi rend="font-weight: bold">Large Lion Hunt.</hi> S. &amp; D., 1641. 2 S. 224&times;300</item>
+
+<item>132 <hi rend="font-weight: bold">Baptism of Eunuch.</hi> S. &amp; D., 1641. 2 S. Mod. 180&times;213</item>
+
+<item>183 <hi rend="font-weight: bold">  Jacob and Laban(?)</hi>   S. &amp; D. (in reverse), 1641.   2 S. Mod. 144&times;113</item>
+
+<item>184 <hi rend="font-weight: bold">  Spanish Gipsy</hi> (Preciosa).	Ab. 1641.   133&times;113</item>
+
+<item>185 <hi rend="font-weight: bold">  Angel Departing from Family of Tobias.</hi>
+S. &amp; D., 1641.   3 S.   Mod.   103&times;154</item>
+
+<item>186 <hi rend="font-weight: bold">  Virgin and Child in Clouds.</hi>	S. &amp; D., 1641.   166&times;104</item>
+
+<item>187 <hi rend="font-weight: bold">  Cornelis Claesz Anslo,</hi> Mennonite preacher.
+S. &amp; D., 1641.   5 S.   186&times;157</item>
+
+<item>188 <hi rend="font-weight: bold">  Portrait of Boy,</hi> in profile.	S. &amp; D., 1641.   93&times;66</item>
+
+<item>189 <hi rend="font-weight: bold">  Man at Desk,</hi> wearing cross and chain.     S. &amp; D., 1641. 4 S.   154&times;102</item>
+
+<item>190 <hi rend="font-weight: bold">  Card Player.</hi>	S. &amp; D.. 1641.  3 S.   Mod.   90&times;81</item>
+
+<item>191 <hi rend="font-weight: bold">  Man Drawing from Cast.</hi>	Ab. 1641.   2 S.   Mod.   93&times;64</item>
+
+<item>192 <hi rend="font-weight: bold">  Woman  at Door-Hatch Talking to Man and Children</hi> (The
+<q>Schoolmaster.</q>)	S. &amp; D., 1641.   Mod.   94&times;63</item>
+
+<item>193 <hi rend="font-weight: bold">  Virgin with Instruments of Passion.</hi>	Ab. 1641.   2 S.   110&times;88</item>
+
+
+
+
+<pb n="36" />
+
+<item>194 <hi rend="font-weight: bold">  Man in Arbour.</hi>	S. &amp;  D., 1642.   72&times;56</item>
+
+<item>195 <hi rend="font-weight: bold">  Girl with Basket.</hi>	Ab. 1642.   2 S.   86&times;63-60</item>
+
+<item>196 <hi rend="font-weight: bold">  Sick Woman with Large White Head-Dress</hi> (Saskia).
+Ab. 1642.   61&times;51</item>
+
+<item>197 <hi rend="font-weight: bold">  Woman in Spectacles, Reading.</hi>	Ab. 1642.   77&times;67</item>
+
+<item>198 <hi rend="font-weight: bold">  Raising of Lazarus;</hi> smaller plate.
+S. &amp; D, 1642.   2 S.   Mod.   150&times;115</item>
+
+<item>199 <hi rend="font-weight: bold">  The Descent from Cross:</hi> sketch.	S. &amp; D., 1642.   148&times;115</item>
+
+<item>200 <hi rend="font-weight: bold">  Flute-Player</hi> (L'Espiegle).   (After I S  S. &amp;  D.), 1642. 4 S.   177&times;144</item>
+
+<item>201 <hi rend="font-weight: bold">  St. Jerome in Dark Chamber.</hi>    S. &amp; D., 1642.   2 S. Mod.   150&times;173</item>
+
+<item>202 <hi rend="font-weight: bold">  Student at Table by Candle Light.</hi>	Ab. 1642.  33.   146&times;132</item>
+
+<item>203 <hi rend="font-weight: bold">  Cottage with White Paling.</hi>
+S. &amp; D., 1642.   (Date only in II S.)   2 S.   130&times;158</item>
+
+<item>204 <hi rend="font-weight: bold">   Hog.</hi>	S. &amp;  D., 1643.    2 S.   143&times;154</item>
+
+<item>205 <hi rend="font-weight: bold">  Three Trees.</hi>	S. &amp;  D., 1643.   211&times;280</item>
+
+<item>206 <hi rend="font-weight: bold">  Shepherd and Family.</hi>	S. &amp;  D., 1644.   95&times;67</item>
+
+<item>207 <hi rend="font-weight: bold">  Sleeping Herdsman.</hi>	Ab. 1644.   78&times;57</item>
+
+<item>208 <hi rend="font-weight: bold">  Rest on Flight:</hi> night piece.	Ab. 1644.   4S.   Mod.   92&times;59</item>
+
+<item>209 <hi rend="font-weight: bold">  Six's Bridge.</hi>	S. &amp;  D., 1645.   3 S.   129&times;223</item>
+
+<item>210 <hi rend="font-weight: bold">  Omval.</hi>	S. &amp; D., 1645.   2 S.    Mod.   185&times;225</item>
+
+<item>211 <hi rend="font-weight: bold">  Boat-House.</hi>	S. &amp; D., 1645.   4 S.   127&times;133</item>
+
+<item>212 <hi rend="font-weight: bold">  Cottages Beside Canal:</hi> with church and sailing boat.
+Ab. 1645.   2 S.   140&times;207</item>
+
+<item>213 <hi rend="font-weight: bold">  Cottage and Farm Buildings,</hi> with man sketching.
+Ab. 1645.   129&times;208</item>
+
+<item>214 <hi rend="font-weight: bold">  Abraham and Isaac.</hi>	S. &amp;  D., 1645.   Mod.   157&times;130</item>
+
+<item>215 <hi rend="font-weight: bold">  Christ Carried to Tomb.</hi>	S.   Ab. 1645.   130&times;107</item>
+
+<item>216 <hi rend="font-weight: bold">  Rest on Flight:</hi> lightly etched.	S. &amp; D., 1645.   129&times;114</item>
+
+<item>217 <hi rend="font-weight: bold">  St. Peter in Penitence.</hi>	S. &amp; D., 1645.   181&times;116</item>
+
+<item>218 <hi rend="font-weight: bold">  Old Man in Meditation,</hi> leaning on book.	Ab. 1645.   132&times;106</item>
+
+<item>219 <hi rend="font-weight: bold">  Beggar Woman Leaning on Stick.</hi>    S. &amp;  D.. 1646. 2 S. Mod. 81&times;63</item>
+
+<item>220 <hi rend="font-weight: bold">  Study From Nude:</hi> Man seated before curtain.
+S. &amp; D., 1646.  2 S. 164&times;96</item>
+
+<item>221 <hi rend="font-weight: bold">  Study From Nude:</hi> Man seated on ground with one leg extended.
+S. &amp; D., 1646.   Mod.   97&times;166</item>
+
+<item>222 <hi rend="font-weight: bold">  Studies  From   Nude:</hi>  one man seated, another standing: with woman and baby lightly etched in background.
+Ab. 1646.   3 S.   Mod.   194&times;228</item>
+
+<item>223 <hi rend="font-weight: bold">  Le Lit a La Francaise</hi> (Ledekant).      S. &amp;  D., 1646.  3 S.   152&times;224</item>
+
+<item>224 <hi rend="font-weight: bold">  Monk in Cornfield.</hi>	Ab. 1646.   48&times;65</item>
+
+<item>225 <hi rend="font-weight: bold">  Jan Cornelis Sylvius, Preacher:</hi> posthumous portrait.
+S. &amp;  D., 1646.   2S.   278&times;188</item>
+
+<item>226 <hi rend="font-weight: bold">  Ephraim Bonus, Jewish Physician.</hi>   S. &amp;  D., 1647. 2S.   240&times;177</item>
+
+<item>227 <hi rend="font-weight: bold">  Jan Asselyn. Painter.</hi>	S. &amp; D., 16..?   3 S.   Mod.   215&times;170</item>
+
+<item>228 <hi rend="font-weight: bold">  Jan Six.</hi>	(After I S.   S. &amp; D.),  1647?.   3 S.   Mod.   245&times;191</item>
+
+<item>229 <hi rend="font-weight: bold">  Rembrandt Drawing at Window.</hi>
+(After I S.)   S. &amp; D., 1648.   5 S.    Mod.   157&times;128</item>
+
+<item>230 <hi rend="font-weight: bold">  Sheet of Studies with H. of R.,</hi> Beggar man, woman and child.
+S. 1631 or 1651.   111&times;92</item>
+
+<item>231 <hi rend="font-weight: bold">   Artist Drawing from Model:</hi> unfinished plate.
+Ab. 1648, or later?   2 S.   Mod.   231&times;184</item>
+
+<item>232 <hi rend="font-weight: bold">  St. Jerome Beside Pollard Willow.</hi>
+(After I S.)   S. &amp; D., 1648.   2 S.   179&times;122</item>
+
+
+
+<pb n="37" />
+
+<item>233 <hi rend="font-weight: bold">Beggars Receiving Alms at Door of House.</hi>
+S. &amp; D., 1648.   2 S.   Mod.   164&times;128</item>
+
+<item>234 <hi rend="font-weight: bold">Jews in Synagogue.</hi>	S. &amp; D., 1648.  3 S.   Mod.   71&times;129</item>
+
+<item>235 <hi rend="font-weight: bold">Medea: or Marriage of Jason and Creusa.</hi>
+(After III S.)   S. &amp; D., 1648.   5 S.   240&times;177</item>
+
+<item>236 <hi rend="font-weight: bold">Christ, with Sick Around Him, Receiving Little Children</hi>
+(<q>Hundred Guilder Print.</q>)	Ab. 1649. 2 S. Mod. 278&times;389</item>
+
+<item>237 <hi rend="font-weight: bold">Incredulity of Thomas.</hi> S. &amp; D., 1650. 162&times;210</item>
+
+<item>238 <hi rend="font-weight: bold">Canal with Angler and Two Swans.</hi> S. &amp; D., 1650. 2 S. 82&times;107</item>
+
+<item>239 <hi rend="font-weight: bold">Canal with Large Boat and Bridge.</hi> S. &amp; D., 1650. 2 S. 82&times;107</item>
+
+<item>240 <hi rend="font-weight: bold">Landscape with Cow Drinking.</hi> Ab. 1650. 2 S. Mod. 102&times;129</item>
+
+<item>241 <hi rend="font-weight: bold">Landscape with Hay Barn and Flock of Sheep.</hi>
+S. &amp; D., 1650.   2 S.   83&times;174</item>
+
+<item>242 <hi rend="font-weight: bold">  Landscape with Milk-Man.</hi>	Ab. 1650.   2 S.   65&times;174</item>
+
+<item>243 <hi rend="font-weight: bold">  Landscape with Obelisk,</hi> Ab. 1650.   2 S.   83&times;160</item>
+
+<item>244 <hi rend="font-weight: bold">  Landscape with Trees,</hi> farm buildings and tower.
+Ab. 1650.   4  S.   123&times;318</item>
+
+<item>245 <hi rend="font-weight: bold">  Landscape with Square Tower.</hi>         S. &amp; D., 1650.   4 S.   88&times;155</item>
+
+<item>246 <hi rend="font-weight: bold">  Landscape with Three Gabled Cottages Beside Road.</hi>
+S. &amp; D., 1650.   3 S.   161&times;202</item>
+
+<item>247 <hi rend="font-weight: bold">  The Bull.</hi>	S. &amp; D., 165.?   76&times;104</item>
+
+<item>248 <hi rend="font-weight: bold">  The Shell.</hi>	S. &amp; D., 1650.   2 S.   97&times;132</item>
+
+<item>249 <hi rend="font-weight: bold">  Goldweigher's Field.</hi>	S. &amp; D., 1651.   120&times;319</item>
+
+<item>250 <hi rend="font-weight: bold">  The Bathers.</hi>	S. &amp; D., 1651.   2 S.   Mod.   109&times;137</item>
+
+<item>251 <hi rend="font-weight: bold">  Clement de Jonghe, Printseller.</hi>
+S. &amp; D., 1651.   6 S.   Mod.   206&times;161</item>
+
+<item>252 <hi rend="font-weight: bold">  Blindness of Tobit:</hi> larger plate.	S. &amp; D., 1651.   161&times;129</item>
+
+<item>253 <hi rend="font-weight: bold">  Flight into Egypt:</hi> night piece.   S. &amp; D., 1651.   5 S.   Mod.   127&times;110</item>
+
+<item>254 <hi rend="font-weight: bold">  Star of the Kings:</hi> night piece.	Ab. 1652.   Mod.   94&times;143</item>
+
+<item>255 <hi rend="font-weight: bold">  Adoration of Shepherds:</hi> night piece.
+Ab. 1652.   8 S.   Mod.   149&times;198</item>
+
+<item>256 <hi rend="font-weight: bold">  Christ Preaching</hi> (<q>La Petite Tombe.</q>)      Ab. 1652.   Mod.   155&times;207</item>
+
+<item>257 <hi rend="font-weight: bold">  Christ Disputing with Doctors:</hi> sketch.
+S. &amp; D., 1652.   3 S.   126&times;213</item>
+
+<item>258 <hi rend="font-weight: bold">  David in Prayer,</hi>	S. &amp; D., 1652.  3 S.   Mod.   143&times;93</item>
+
+<item>259 <hi rend="font-weight: bold">  Peasant Family on Tramp.</hi>	Ab. 1652.   Mod.   112&times;92</item>
+
+<item>260 <hi rend="font-weight: bold">  Faust In Study, Watching Magic Disk</hi> (<q>Dr. Faustus</q>).
+Ab. 1652.   3 S.    Mod.   209&times;161</item>
+
+<item>261 <hi rend="font-weight: bold">  Titus Van Ryn, R.'s Son.</hi>	Ab. 1656.   101&times;72</item>
+
+<item>262 <hi rend="font-weight: bold">  Sheet of Studies,</hi> with wood and paling.   Parts of two heads, horse
+and cart.	Ab. 1652.   108&times;136</item>
+
+<item>263 <hi rend="font-weight: bold">  Clump of Trees with Vista.</hi>
+(After I S.) S. &amp; D., 1652.   2 S.    155&times;210</item>
+
+<item>264 <hi rend="font-weight: bold">  Landscape with Road Beside Canal.</hi>	Ab. 1652.   (74-79)&times;209</item>
+
+<item>265 <hi rend="font-weight: bold">  Landscape with Sportsman and Dogs.</hi>   Ab. 1653.   2 S.   129&times;157</item>
+
+<item>266 <hi rend="font-weight: bold">  The Flight Into Egypt:</hi> Altered from <q>Tobias and the Angel</q> by
+Hercules Seghers.	Ab. 1653.   7 S.   213&times;284</item>
+
+<item>267 <hi rend="font-weight: bold">St. Jerome Reading,</hi> in Italian landscape.   Ab. 1653.   2 S.   260&times;207</item>
+
+<item>268 <hi rend="font-weight: bold">Jan Antonides Van Der Linden,</hi> Professor of Medicine.
+1665.    6 S.    Mod.    (124+49)&times;105</item>
+
+<item>269 <hi rend="font-weight: bold">Lieven Willemsz Van Coppenol,</hi> Writing-Master: smaller plate.
+Ab. 1653.    6 S.   257&times;189</item>
+
+<item>270 <hi rend="font-weight: bold">Christ  Crucified  Between  Two Thieves:</hi> large oblong plate (The <q>Three Crosses</q>)   (After the II S.)    S. &amp; D.. 1653. 5 S.   385&times;450</item>
+
+
+
+<pb n="38" />
+
+<item>271 <hi rend="font-weight: bold">  Christ Presented to People:</hi> large oblong plate.
+(After the V S.)   S. &amp; D., 1655.   7 S.   383&times;45</item>
+
+<item>272 <hi rend="font-weight: bold">  Golf-Player.</hi>	S. &amp; D., 1654.   2 S.   Mod. 96&times;144</item>
+
+<item>273 <hi rend="font-weight: bold">  Adoration of Shepherds</hi> (with lamp).
+S.   Ab. 1654.   2 S.   Mod.   105&times;129</item>
+
+<item>274 <hi rend="font-weight: bold">  Circumcision</hi> (in Stable).	S. &amp; D., 1654.  3 S.  94&times;144</item>
+
+<item>275 <hi rend="font-weight: bold">  Virgin and Child with Cat:</hi> Joseph at window.
+Mod. S. &amp; D., 1654.   2 S. 94&times;143</item>
+
+<item>276 <hi rend="font-weight: bold">  Flight Into Egypt:</hi> Holy Family crossing brook.
+S. &amp; D., 1654. Mod. 94&times;144</item>
+
+<item>277 <hi rend="font-weight: bold">  Christ Seated Disputing with Doctors.</hi>
+S. &amp; D., 1654.   2 S. 95&times;144</item>
+
+<item>278  <hi rend="font-weight: bold"> Christ Between His Parents, Returning from Temple.</hi>
+S. &amp; D., 1654.   94&times;144</item>
+
+<item>279 <hi rend="font-weight: bold">  Presentation in Temple:</hi> Dark manner.	Ab. 1654.   210&times;162</item>
+
+<item>280 <hi rend="font-weight: bold">  Descent from Cross:</hi> by torchlight.   S. &amp; D., 1644. Mod.   210&times;161</item>
+
+<item>281 <hi rend="font-weight: bold">  The Entombment.</hi>	Ab. 1654.   4S, 211&times;161</item>
+
+<item>282 <hi rend="font-weight: bold">  Christ at Emmaus:</hi> larger plate.   S. &amp; D., 1654. 3 S.  Mod. 209&times;159 </item>
+
+<item>283 <hi rend="font-weight: bold">  Abraham's Sacrifice.</hi> S. &amp; D., 1655.   156&times;131</item>
+
+<item>284 <hi rend="font-weight: bold">  Four Illustrations to Spanish Book.</hi>
+(On each part after I S.) S. &amp; D., 1655. 5 S. The undivided plate 279&times;160</item>
+
+<item>285 <hi rend="font-weight: bold">  The Goldsmith.</hi>	S. &amp; D., 1655.   2 S.   Mod.   77&times;57</item>
+
+<item>286 <hi rend="font-weight: bold">  Abraham Entertaining the Angels.</hi>	S. &amp; D., 1656.   159&times;131</item>
+
+<item>287 <hi rend="font-weight: bold">  Jacob Haaring</hi> (The <q>Old Haaring</q>).	Ab. 1655.   2 S.   195&times;149</item>
+
+<item>288 <hi rend="font-weight: bold">  Thomas Jacobsz Haaring</hi> (The <q>Young Haaring</q>).
+S. &amp; D., 1655.   5 S.   Mod.   197&times;148</item>
+
+<item>289 <hi rend="font-weight: bold">  Arnold Tholinx,</hi> Inspector Medical Colleges at Amsterdam.
+Ab. 1656.   2 S.   198&times;149</item>
+
+<item>290 <hi rend="font-weight: bold">  Jan Lutma, the Elder,</hi> Goldsmith and Sculptor.
+(After I S.)   S. &amp; D., 1656.   3 S.   Mod.   197&times;148</item>
+
+<item>291 <hi rend="font-weight: bold">   Abraham Francen, Art Dealer.</hi>
+Ab. 1656, or later?   9 S.   Mod.   152&times;208</item>
+
+<item>292 <hi rend="font-weight: bold">  St. Francis Beneath Tree, Praying.</hi>  S. &amp; D., 1657. 2 S.   180&times;244</item>
+
+<item>293 <hi rend="font-weight: bold">  Agony in the Garden.</hi>     S. &amp; D., 165.. (Ab. 1657?)   Mod.   118&times;83</item>
+
+<item>294 <hi rend="font-weight: bold">  Christ and Woman of Samaria:</hi> arched print.
+(On III S.)   S. &amp; D., 1658.   3 S.    Mod.   205&times;160</item>
+
+<item>295 <hi rend="font-weight: bold">  Phoenix; or Statue Overthrown:</hi> Allegory of doubtful meaning.
+S. &amp; D., 1658.   180&times;183</item>
+
+<item>296 <hi rend="font-weight: bold">  Woman Sitting Half Dressed Beside Stove.</hi>
+S. &amp; D., 1658.   7 S.   228&times;186</item>
+
+<item>297 <hi rend="font-weight: bold">  Woman at Bath, with hat beside her.</hi>    S. &amp; D., 1658. 2 S. 157&times;128</item>
+
+<item>298 <hi rend="font-weight: bold">  Woman Bathing Her Feet at Brook.</hi> S. &amp; D., 1658. Mod. 159&times;80</item>
+
+<item>299 <hi rend="font-weight: bold">  Negress Lying Down.</hi>	S. &amp; D., 1658.   3 S. Mod. 80&times;157</item>
+
+<item>300 <hi rend="font-weight: bold">  Lieven Willemsz Van Coppenol,</hi> Writing-Master: larger plate.
+Ab. 1658.   6 S.   Mod.  341&times;290</item>
+
+<item>300* <hi rend="font-weight: bold"> R. Etching.</hi>	S. &amp; D., 1658.   118&times;64</item>
+
+<item>301 <hi rend="font-weight: bold">  Peter and John Healing Cripple at Gate of Temple.</hi>
+S. &amp; D., 1659.    4S.    Mod.   179&times;216</item>
+
+<item>302 <hi rend="font-weight: bold">  Jupiter and Antiope:</hi> larger plate.      S. &amp; D., 1659.   2 S.   139&times;205</item>
+
+<item>303 <hi rend="font-weight: bold">  Woman with Arrow.</hi>	S. &amp; D., 1661.   3 S.   203&times;123</item>
+
+</list>
+</div>
+
+<pb n="39" />
+
+
+<div rend="page-break-before: right">
+  <index index="toc" />
+  <index index="pdf" />
+<head>LIST OF THE REJECTED ETCHINGS</head>
+<p>
+(In the order of Bartsch and Seidlitz, but  with  the Hind  numbers.)
+</p>
+
+<list>
+
+<item>304 <hi rend="font-weight: bold"> Rembrandt with Falcon.</hi>	126&times;98</item>
+
+<item>305 <hi rend="font-weight: bold">  Abraham Casting Out Hagar and Ishmael:</hi> coarsely etched. 81&times;57</item>
+
+<item>306 <hi rend="font-weight: bold">  Abraham Casting Out Haagar and Ishmael:</hi> delicately etched. 73&times;53</item>
+
+<item>307 <hi rend="font-weight: bold"> Rest on the Flight.</hi>	217&times;165</item>
+
+<item>308 <hi rend="font-weight: bold">  Beheading of John the Baptist.</hi>   S. with R.'s monogram. 158&times;124</item>
+
+<item>309 <hi rend="font-weight: bold">  St. Jerome Kneeling:</hi> large plate.	389&times;332</item>
+
+<item>310 <hi rend="font-weight: bold">  Hour of Death.</hi>  1644.   138&times;89</item>
+
+<item>311 <hi rend="font-weight: bold">  The Rat-Killer.</hi>	124&times;81</item>
+
+<item>312 <hi rend="font-weight: bold">  Woman Cutting Her Mistress's Nails</hi> (Bathsheba?).	124&times;95</item>
+
+<item>313 <hi rend="font-weight: bold">  Cupid Resting.</hi>	89&times;119</item>
+
+<item>314 <hi rend="font-weight: bold">  Old Man in Turban, Standing with Stick.</hi>	138&times;108</item>
+
+<item>315 <hi rend="font-weight: bold">The Astrologer. </hi>  S. f. bol.	140&times;117</item>
+
+<item>316 <hi rend="font-weight: bold">Philosopher in His Chamber.</hi>	70&times;51</item>
+
+<item>317 <hi rend="font-weight: bold">Physician Feeling Pulse of Patient.</hi>	70&times;54</item>
+
+<item>318 <hi rend="font-weight: bold">A Tramp, with Wife and Child.</hi>	66&times;70</item>
+
+<item>319 <hi rend="font-weight: bold">Peasant, Standing.</hi>	58&times;35</item>
+
+<item>320 <hi rend="font-weight: bold">Peasant Woman, Standing.</hi>	59&times;36</item>
+
+<item>321 <hi rend="font-weight: bold">Beggar in Tall Hat and Long Cloak,</hi> with cottage and two figures in background. 118&times;86</item>
+
+<item>322 <hi rend="font-weight: bold">Sick Beggar and Old Beggar Woman.</hi>	76&times;56</item>
+
+<item>323 <hi rend="font-weight: bold">Landscape with Cow;</hi> square tower in distance.	72&times;120</item>
+
+<item>324 <hi rend="font-weight: bold">Village with Two Gabled Cottages on Canal.</hi>	56&times;174</item>
+
+<item>325 <hi rend="font-weight: bold">  Landscape with Coach.</hi>	64&times;177</item>
+
+<item>326 <hi rend="font-weight: bold">  The Terrace.</hi>	163&times;188</item>
+
+<item>327 <hi rend="font-weight: bold">  Clump of Trees Beside Dyke-Road.</hi>	75&times;204</item>
+
+<item>323 <hi rend="font-weight: bold">  Orchard with Barn</hi> (<q>Paysage aux deux all&eacute;es</q>). 2 S.  91&times;205</item>
+
+<item>329 <hi rend="font-weight: bold">  Village with Ruined Tower.</hi> S. &amp; D., J. Koninck. 1663.   100&times;153</item>
+
+<item>330 <hi rend="font-weight: bold">  Landscape with Little Figure of Man.</hi></item>
+         
+<item>331 <hi rend="font-weight: bold">  Canal with Cottages and a Boat.</hi>	3 S. 166&times;182</item>
+
+<item>332 <hi rend="font-weight: bold">  The Large Tree.</hi> 162&times;128</item>
+
+<item>333 <hi rend="font-weight: bold">  Landscape with a White Fence.</hi> 90&times;161</item>
+
+<item>334 <hi rend="font-weight: bold">   The Angler in a Boat.</hi> 112&times;139</item>
+
+<item>335 <hi rend="font-weight: bold">  Landscape with a Canal and Church Tower.</hi> 80&times;180</item>
+
+<item>336 <hi rend="font-weight: bold">  Low House on the Banks of a Canal.</hi>   Signed P. D. W. 77&times;207</item>
+
+<item>337 <hi rend="font-weight: bold">  The Wooden Bridge.</hi> 76&times;207</item>
+
+<item>338 <hi rend="font-weight: bold">  Landscape with Canal and Palisade.</hi>	D. 1659. 75&times;204</item>
+
+<item>339 <hi rend="font-weight: bold">  The Full Hay-Barn.</hi> 99&times;153 </item>
+
+<item>340 <hi rend="font-weight: bold">  Cottage with a Square Chimney.</hi> 74&times;177</item>
+
+<item>34l <hi rend="font-weight: bold">  House with Three Chimneys.</hi>90&times;160 </item>
+
+<item>342 <hi rend="font-weight: bold">  The Hay-Wain.</hi> 68&times;132</item>
+
+<item>343 <hi rend="font-weight: bold">  The Castle.</hi>  79&times;102 </item>
+
+<item>344 <hi rend="font-weight: bold">The Village Street.</hi>	Signed P. D. W. 81&times;153</item>
+
+<item>345 <hi rend="font-weight: bold">Unfinished Landscape.</hi> Signed P. D. W. 1605 (or 1659). 90&times;162</item>
+
+<item>346 <hi rend="font-weight: bold">Landscape with Canal,</hi> Angler and milk-man.
+Signed P. D. W.   79&times;206</item>
+
+<pb n="40" />
+
+
+
+
+<item>347 <hi rend="font-weight: bold">  Young Man Seated,</hi> with game-bag.	D. 1650. 78&times;67</item>
+
+<item>[348] <hi rend="font-weight: bold">Bare-Headed Old Man with Hands upon Book.</hi></item>
+
+<item>349 <hi rend="font-weight: bold">  Bald Old Man in Profile L.</hi> 75&times;69</item>
+
+<item>350 <hi rend="font-weight: bold">  Old Man with Beard, in Cap:</hi> profile r.: in oval. Mod. 71&times;54</item>
+
+<item>351 <hi rend="font-weight: bold">  Man with Square Beard and Curly Hair.</hi> S. with R.'s monogram and D. 1631. 56&times;48</item>
+
+<item>[352] <hi rend="font-weight: bold">Man Crying Out,</hi> three-quarters l.: bust.</item>
+
+<item>353 <hi rend="font-weight: bold">  Bust of Man with Thick Lips.</hi> 75&times;60</item>
+
+<item>354 <hi rend="font-weight: bold">  Philosopher with Hour-Glass.</hi> Wood cut. 55&times;50</item>
+
+<item>355 <hi rend="font-weight: bold">  The Painter.</hi> 70&times;63</item>
+
+<item>356 <hi rend="font-weight: bold">  Head of Young Man in Broad-Brimmed Hat:</hi> in octagon. 108&times;90</item>
+
+<item>357 <hi rend="font-weight: bold">  Young Man In Broad-Brimmed Hat:</hi> lightly etched. 92&times;67</item>
+
+<item>358 <hi rend="font-weight: bold">   Bust of Young Man with Feathers in Hat.</hi> 72&times;52</item>
+
+<item>359 <hi rend="font-weight: bold">  Small Head of Man in Ruff,</hi> with Feathers in Cap. 31&times;27</item>
+
+<item>360 <hi rend="font-weight: bold">  White Negro.</hi>	Signed A. de Hae. 120&times;102</item>
+
+<item>361 <hi rend="font-weight: bold">  So-Called Study for Great Jewish Bride.</hi> 135&times;97</item>
+
+<item>362 <hi rend="font-weight: bold">   Old Woman Meditating Over Book.</hi> </item>
+
+<item>363 <hi rend="font-weight: bold">  Rembrandt's Mother:</hi> bust. 79&times;63</item>
+
+<item>364 <hi rend="font-weight: bold">  White Negress.</hi> S. with R.'s monogram, in reverse. 112&times;83</item>
+
+<item>365 <hi rend="font-weight: bold">  Head of Old Woman:</hi> Cut as far as band round brow. S. with R.'s monogram.   36&times;43</item>
+
+<item>366 <hi rend="font-weight: bold">  Young Woman Reading.</hi>	106&times;102</item>
+
+<item>367 <hi rend="font-weight: bold">  Head and Shoulders of Dog:</hi> sketched in corner of plate. 118&times;150</item>
+
+<item>368 <hi rend="font-weight: bold">  Slight Study of Woman's Head.</hi>	64&times;55</item>
+
+<item>369 <hi rend="font-weight: bold">  Head and Bust of Man with Beard:</hi> looking down towards l.
+79&times;63</item>
+
+<item>370 <hi rend="font-weight: bold">  View of Amsterdam.</hi> 58&times;175 </item>
+
+<item>371 <hi rend="font-weight: bold">  Two Cottages with Pointed Gables.</hi> 66&times;173</item>
+
+<item>372 <hi rend="font-weight: bold">  Village Divided by Dyke.</hi>	Signed P. D. W. 76&times;183 </item>
+
+<item>373 <hi rend="font-weight: bold">  Angler in Boat.</hi> 83&times;182</item>
+
+<item>374 <hi rend="font-weight: bold">  Landscape with Two Anglers.</hi> 81&times;180</item>
+
+<item>375 <hi rend="font-weight: bold">  Two Ruined Cottages.</hi> 113&times;181</item>
+
+<item>376 <hi rend="font-weight: bold">  Old Barn.</hi> 73&times;114</item>
+
+<item>377 <hi rend="font-weight: bold">  Supposed Portrait of Jan Six.</hi> 46&times;45</item>
+
+<item>378 <hi rend="font-weight: bold">  Profile of Old Bearded Man in Turban.</hi> 45&times;31</item>
+
+<item>379 <hi rend="font-weight: bold">  Profile of Jewish-Looking Old Man in Fur Cap.</hi> 47&times;29</item>
+
+<item>380 <hi rend="font-weight: bold">  Old Man with Pointed Beard.</hi> 63&times;53</item>
+
+<item>381 <hi rend="font-weight: bold">  Head of Man with Curly Hair and Thin Moustache.</hi> 63&times;51</item>
+
+<item>382 <hi rend="font-weight: bold">  Jew Standing.</hi> 51&times;40</item>
+
+<item>383 <hi rend="font-weight: bold">  Head of Rembrandt's Mother.</hi> 50&times;41</item>
+
+<item>384 <hi rend="font-weight: bold">  Portrait of Rembrandt.</hi> 54&times;52</item>
+
+<item>385 <hi rend="font-weight: bold">  Child Asleep.</hi> 38&times;40</item>
+
+<item>386 <hi rend="font-weight: bold">  Bathsheba.</hi> 146&times;112</item>
+
+<item>387 <hi rend="font-weight: bold">  Old Man in Broad-Brimmed Hat:</hi> bust in profile. 51&times;31</item>
+
+<item>388 <hi rend="font-weight: bold">  The Circumcision.</hi> (II S. only. S.) Rembrandt fecit.    2 S.  214&times;(165&mdash;160)</item>
+
+<item>389 <hi rend="font-weight: bold">  Head of Old M an with Snub Nose:</hi> in cap: profile to l. 27&times;21</item>
+
+</list>
+</div>
+
+
+</div>
+
+</body>
+
+<back rend="page-break-before: right">
+<div rend="page-break-before: right">
+<divGen type="pgfooter" />
+</div>
+</back>
+
+</text>
+</TEI.2>
