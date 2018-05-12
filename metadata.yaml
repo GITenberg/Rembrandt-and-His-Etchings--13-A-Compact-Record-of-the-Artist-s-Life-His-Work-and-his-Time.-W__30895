@@ -1,0 +1,50 @@
+_repo: Rembrandt-and-His-Etchings--13-A-Compact-Record-of-the-Artist-s-Life-His-Work-and-his-Time.-W__30895
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Hind, Arthur Mayger
+    aliases:
+    - Hind, A. M. (Arthur Mayger)
+    - Hind, Arthur M. (Arthur Mayger)
+    birthdate: 1880
+    deathdate: 1957
+    gutenberg_agent_id: '35044'
+    url: http://www.gutenberg.org/2009/agents/35044
+  illustrator:
+    agent_name: Rembrandt Harmenszoon van Rijn
+    aliases:
+    - Van Rijn, Rembrandt Harmenszoon
+    - Rijn, Rembrandt Harmenszoon van
+    birthdate: 1606
+    deathdate: 1669
+    gutenberg_agent_id: '7232'
+    url: http://www.gutenberg.org/2009/agents/7232
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Holman, Louis A. (Louis Arthur)
+    aliases:
+    - Holman, L. A. (Louis Arthur)
+    - Holman, Louis Arthur
+    birthdate: 1866
+    deathdate: 1939
+    gutenberg_agent_id: '34880'
+    url: http://www.gutenberg.org/2009/agents/34880
+description: ''
+gutenberg_issued: '2010-01-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30895'
+  lccn: '21011031'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NE'
+- !lcsh 'Rembrandt Harmenszoon van Rijn, 1606-1669'
+title: "Rembrandt and His Etchings\r\nA Compact Record of the Artist's Life, His Work\
+  \ and his Time. With the complete Chronological List of his Etchings"
+url: http://www.gutenberg.org/ebooks/30895
